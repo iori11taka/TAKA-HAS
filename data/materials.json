@@ -1,0 +1,95 @@
+[
+  {
+    "id": "ptfe",
+    "name": "PTFE",
+    "category": "fluoropolymer",
+    "description": "Politetrafluoroetileno utilizado como material interno en mangueras de alta resistencia química.",
+    "aliases": [
+      "Teflon",
+      "Politetrafluoroetileno",
+      "Ánima lisa de PTFE"
+    ]
+  },
+  {
+    "id": "filled_ptfe",
+    "name": "PTFE con carga conductiva",
+    "category": "fluoropolymer",
+    "description": "PTFE modificado con carga conductiva para facilitar la disipación de electricidad estática.",
+    "aliases": [
+      "PTFE relleno de carbono negro",
+      "PTFE conductivo",
+      "Carbon-filled PTFE"
+    ]
+  },
+  {
+    "id": "ss304",
+    "name": "Acero inoxidable 304",
+    "category": "metal",
+    "description": "Acero inoxidable utilizado comúnmente como refuerzo exterior.",
+    "aliases": [
+      "304 SS",
+      "SS 304",
+      "Acero inoxidable 304"
+    ]
+  },
+  {
+    "id": "ss316l",
+    "name": "Acero inoxidable 316L",
+    "category": "metal",
+    "description": "Acero inoxidable de bajo carbono utilizado en componentes en contacto con fluidos.",
+    "aliases": [
+      "316L SS",
+      "SS 316L",
+      "Acero inoxidable 316L"
+    ]
+  },
+  {
+    "id": "nylon",
+    "name": "Nylon",
+    "category": "polymer",
+    "description": "Poliamida utilizada como material interno o cubierta en determinadas mangueras.",
+    "aliases": [
+      "Poliamida",
+      "Polyamide"
+    ]
+  },
+  {
+    "id": "polyethylene",
+    "name": "Polietileno",
+    "category": "polymer",
+    "description": "Polímero utilizado en mangueras para servicios seleccionados.",
+    "aliases": [
+      "PE",
+      "Polyethylene"
+    ]
+  },
+  {
+    "id": "buna_n",
+    "name": "Buna N",
+    "category": "elastomer",
+    "description": "Elastómero de nitrilo utilizado en mangueras y componentes de sellado.",
+    "aliases": [
+      "NBR",
+      "Caucho nitrilo",
+      "Nitrile rubber"
+    ]
+  },
+  {
+    "id": "epdm",
+    "name": "EPDM",
+    "category": "elastomer",
+    "description": "Elastómero empleado en aplicaciones químicas y de agua seleccionadas.",
+    "aliases": [
+      "Ethylene propylene diene monomer"
+    ]
+  },
+  {
+    "id": "silicone",
+    "name": "Silicona",
+    "category": "elastomer",
+    "description": "Elastómero utilizado en determinadas cubiertas, tubos y aplicaciones sanitarias.",
+    "aliases": [
+      "Silicone"
+    ]
+  }
+]

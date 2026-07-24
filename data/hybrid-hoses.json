@@ -1,0 +1,66 @@
+[
+  {
+    "series": "FP",
+    "name": "Manguera híbrida serie FP",
+    "family": "Manguera híbrida",
+    "constructionType": "hybrid",
+    "constructionGroup": "hybrid",
+    "description": "Manguera híbrida de baja presión con ánima lisa de PTFE y cubierta exterior corrugada de acero inoxidable 316L, utilizada normalmente en aplicaciones de transferencia de ultra alta pureza donde se requiere una superficie húmeda lisa y no se desea la permeación hacia la atmósfera.",
+    "coreMaterial": "Ánima lisa de PTFE",
+    "reinforcement": "Cubierta exterior corrugada de acero inoxidable 316L",
+    "coverMaterial": "Acero inoxidable 316L corrugado",
+    "wettedMaterials": [
+      "PTFE",
+      "Acero inoxidable 316L en las conexiones finales"
+    ],
+    "electricalProperty": "La cubierta metálica exterior es conductiva; el ánima de PTFE debe evaluarse según la configuración del ensamblaje",
+    "temperatureMinC": -17,
+    "temperatureMaxC": 48,
+    "basePressureTemperatureMaxC": 48,
+    "pressureReference": "Presión de servicio publicada para todo el rango de -17 a 48 °C",
+    "dynamicPerformance": "medio",
+    "vibrationSuitability": "medium",
+    "bendRadiusMeasurement": "centerline",
+    "lowPermeationSuitable": true,
+    "chemicalCompatibilityLevel": "high",
+    "vacuumSuitable": true,
+    "ultraHighPuritySuitable": true,
+    "heliumLeakTested": true,
+    "maximumHeliumLeakRateStdCm3S": 1e-09,
+    "connectionConstruction": "Conexiones finales soldadas de acero inoxidable 316L",
+    "sizes": [
+      {
+        "nominalSize": "1/4",
+        "insideDiameterMm": 4.6,
+        "outsideDiameterMm": 9.7,
+        "staticBendRadiusMm": 54,
+        "dynamicBendRadiusMm": 109,
+        "temperatureMinC": -17,
+        "temperatureMaxC": 48,
+        "workingPressureBar": 11.3,
+        "permanentDeformationPressureBar": 32.0,
+        "burstPressureBar": null
+      },
+      {
+        "nominalSize": "1/2",
+        "insideDiameterMm": 9.4,
+        "outsideDiameterMm": 18.5,
+        "staticBendRadiusMm": 109,
+        "dynamicBendRadiusMm": 165,
+        "temperatureMinC": -17,
+        "temperatureMaxC": 48,
+        "workingPressureBar": 11.3,
+        "permanentDeformationPressureBar": 32.0,
+        "burstPressureBar": null
+      }
+    ],
+    "warnings": [
+      "La presión publicada corresponde al rango de -17 a 48 °C.",
+      "Si se supera la presión mínima de deformación permanente, el ánima de PTFE puede distorsionarse.",
+      "Los gases que permeen el ánima de PTFE pueden quedar atrapados entre el ánima y la cubierta metálica corrugada.",
+      "Al reducir la presión del sistema, los gases atrapados pueden reabsorberse hacia el caudal del sistema.",
+      "Las conexiones finales pueden limitar la presión y la temperatura del ensamblaje.",
+      "La clasificación de baja permeación se refiere a evitar la liberación hacia la atmósfera; no significa permeación nula a través del ánima de PTFE."
+    ]
+  }
+]

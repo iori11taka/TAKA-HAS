@@ -1,0 +1,202 @@
+[
+  {
+    "series": "PB",
+    "name": "Manguera de goma serie PB",
+    "family": "Manguera de goma",
+    "constructionType": "rubber",
+    "constructionGroup": "elastomer",
+    "description": "Manguera de goma para servicio general, aire comprimido y aceite, resistente al ozono y equipada con conexiones finales tipo push-on.",
+    "coreMaterial": "Ánima lisa de Buna N",
+    "reinforcement": "Refuerzo interno de fibra sintética",
+    "coverMaterial": "Cubierta de Buna N; cubierta de neopreno para la versión negra",
+    "electricalProperty": "Consultar las propiedades eléctricas de la configuración",
+    "temperatureMinC": -40,
+    "temperatureMaxC": 93,
+    "basePressureTemperatureMaxC": 20,
+    "pressureReference": "Presión de servicio publicada para el intervalo de temperatura comprendido entre la temperatura mínima aplicable y 20 °C; dispone de tabla presión-temperatura",
+    "dynamicPerformance": "alto",
+    "vibrationSuitability": "high",
+    "bendRadiusMeasurement": "inside",
+    "lowPermeationSuitable": null,
+    "chemicalCompatibilityLevel": "medium",
+    "vacuumSuitable": null,
+    "generalServiceSuitable": true,
+    "compressedAirSuitable": true,
+    "oilServiceSuitable": true,
+    "ozoneResistant": true,
+    "abrasionResistantCover": true,
+    "fireResistance": "30 CFR Parte 18",
+    "connectionType": "push-on",
+    "sizes": [
+  {
+    "nominalSize": "1/4",
+    "insideDiameterMm": 6.6,
+    "outsideDiameterMm": 12.8,
+    "minimumBendRadiusMm": 76.2,
+    "temperatureMinC": -40,
+    "temperatureMaxC": 93,
+    "workingPressureBar": 24.1,
+    "burstPressureBar": 96.4,
+    "pressureTemperatureTable": [
+      {
+        "temperatureC": -40,
+        "workingPressureBar": 24.1
+      },
+      {
+        "temperatureC": 20,
+        "workingPressureBar": 24.1
+      },
+      {
+        "temperatureC": 37,
+        "workingPressureBar": 21.7
+      },
+      {
+        "temperatureC": 65,
+        "workingPressureBar": 14.4
+      },
+      {
+        "temperatureC": 93,
+        "workingPressureBar": 6.8
+      }
+    ]
+  },
+  {
+    "nominalSize": "3/8",
+    "insideDiameterMm": 9.9,
+    "outsideDiameterMm": 17.0,
+    "minimumBendRadiusMm": 76.2,
+    "temperatureMinC": -40,
+    "temperatureMaxC": 93,
+    "workingPressureBar": 20.6,
+    "burstPressureBar": 82.6,
+    "pressureTemperatureTable": [
+      {
+        "temperatureC": -40,
+        "workingPressureBar": 20.6
+      },
+      {
+        "temperatureC": 20,
+        "workingPressureBar": 20.6
+      },
+      {
+        "temperatureC": 37,
+        "workingPressureBar": 18.6
+      },
+      {
+        "temperatureC": 65,
+        "workingPressureBar": 12.4
+      },
+      {
+        "temperatureC": 93,
+        "workingPressureBar": 5.5
+      }
+    ]
+  },
+  {
+    "nominalSize": "1/2",
+    "insideDiameterMm": 12.7,
+    "outsideDiameterMm": 19.0,
+    "minimumBendRadiusMm": 127,
+    "temperatureMinC": -40,
+    "temperatureMaxC": 93,
+    "workingPressureBar": 20.6,
+    "burstPressureBar": 82.6,
+    "pressureTemperatureTable": [
+      {
+        "temperatureC": -40,
+        "workingPressureBar": 20.6
+      },
+      {
+        "temperatureC": 20,
+        "workingPressureBar": 20.6
+      },
+      {
+        "temperatureC": 37,
+        "workingPressureBar": 18.6
+      },
+      {
+        "temperatureC": 65,
+        "workingPressureBar": 12.4
+      },
+      {
+        "temperatureC": 93,
+        "workingPressureBar": 5.5
+      }
+    ]
+  },
+  {
+    "nominalSize": "3/4",
+    "insideDiameterMm": 19.3,
+    "outsideDiameterMm": 27.2,
+    "minimumBendRadiusMm": 178,
+    "temperatureMinC": -40,
+    "temperatureMaxC": 93,
+    "workingPressureBar": 20.6,
+    "burstPressureBar": 82.6,
+    "pressureTemperatureTable": [
+      {
+        "temperatureC": -40,
+        "workingPressureBar": 20.6
+      },
+      {
+        "temperatureC": 20,
+        "workingPressureBar": 20.6
+      },
+      {
+        "temperatureC": 37,
+        "workingPressureBar": 18.6
+      },
+      {
+        "temperatureC": 65,
+        "workingPressureBar": 12.4
+      },
+      {
+        "temperatureC": 93,
+        "workingPressureBar": 5.5
+      }
+    ]
+  },
+  {
+    "nominalSize": "1",
+    "insideDiameterMm": 25.4,
+    "outsideDiameterMm": 34.0,
+    "minimumBendRadiusMm": 254,
+    "temperatureMinC": -28,
+    "temperatureMaxC": 93,
+    "workingPressureBar": 20.6,
+    "burstPressureBar": 82.6,
+    "pressureTemperatureTable": [
+      {
+        "temperatureC": -28,
+        "workingPressureBar": 20.6
+      },
+      {
+        "temperatureC": 20,
+        "workingPressureBar": 20.6
+      },
+      {
+        "temperatureC": 37,
+        "workingPressureBar": 18.6
+      },
+      {
+        "temperatureC": 65,
+        "workingPressureBar": 12.4
+      },
+      {
+        "temperatureC": 93,
+        "workingPressureBar": 5.5
+      }
+    ]
+  }
+],
+    "warnings": [
+      "La presión de servicio disminuye cuando la temperatura supera los 20 °C y debe corregirse mediante la tabla presión-temperatura.",
+      "El tamaño de 1 pulg. tiene una temperatura mínima de servicio de -28 °C; los demás tamaños admiten hasta -40 °C.",
+      "Debe verificarse la compatibilidad de la Buna N en sistemas con fluidos diluidos en agua caliente.",
+      "No deben utilizarse abrazaderas con las conexiones push-on.",
+      "La manguera debe introducirse completamente hasta quedar asentada a ras del cuerpo de la conexión.",
+      "La aptitud para aire y aceite no implica compatibilidad universal con todos los gases, hidrocarburos o productos químicos.",
+      "Las conexiones finales pueden limitar la presión y la temperatura del ensamblaje."
+    ]
+  }
+]

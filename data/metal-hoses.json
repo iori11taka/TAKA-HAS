@@ -1,0 +1,604 @@
+[
+  {
+    "series": "FX",
+    "name": "Manguera metálica serie FX",
+    "family": "Manguera metálica",
+    "constructionType": "metal",
+    "vibrationSuitability": "low",
+    "bendRadiusMeasurement": "centerline",
+    "lowPermeationSuitable": true,
+    "description": "Manguera totalmente metálica de alta presión, utilizada normalmente en vacío, alta temperatura, entornos corrosivos a alta presión o cuando la permeabilidad no es aceptable.",
+    "coreMaterial": "Acero inoxidable 316L corrugado anular",
+    "coreMaterialId": "ss316l",
+    "availableCoreMaterialIds": [
+      "ss316l"
+    ],
+    "reinforcement": "Malla exterior de doble capa de acero inoxidable 321",
+    "reinforcementMaterialIds": [
+      "ss321"
+    ],
+    "electricalProperty": "Conductiva",
+    "temperatureMinC": -200,
+    "temperatureMaxC": 537,
+    "basePressureTemperatureMaxC": 148,
+    "pressureReference": "Presión de servicio válida entre -200 y 148 °C",
+    "dynamicPerformance": "limitado",
+    "sizes": [
+      {
+        "nominalSize": "1/4",
+        "insideDiameterMm": 6.4,
+        "outsideDiameterMm": 18.0,
+        "staticBendRadiusMm": 38.1,
+        "dynamicBendRadiusMm": 140,
+        "workingPressureBar": 413,
+        "burstPressureBar": 1653
+      },
+      {
+        "nominalSize": "3/8",
+        "insideDiameterMm": 9.5,
+        "outsideDiameterMm": 23.9,
+        "staticBendRadiusMm": 64.0,
+        "dynamicBendRadiusMm": 178,
+        "workingPressureBar": 344,
+        "burstPressureBar": 1378
+      },
+      {
+        "nominalSize": "1/2",
+        "insideDiameterMm": 13.0,
+        "outsideDiameterMm": 25.7,
+        "staticBendRadiusMm": 76.2,
+        "dynamicBendRadiusMm": 203,
+        "workingPressureBar": 310,
+        "burstPressureBar": 1240
+      },
+      {
+        "nominalSize": "3/4",
+        "insideDiameterMm": 19.0,
+        "outsideDiameterMm": 36.4,
+        "staticBendRadiusMm": 102,
+        "dynamicBendRadiusMm": 254,
+        "workingPressureBar": 248,
+        "burstPressureBar": 992
+      },
+      {
+        "nominalSize": "1",
+        "insideDiameterMm": 25.4,
+        "outsideDiameterMm": 43.9,
+        "staticBendRadiusMm": 127,
+        "dynamicBendRadiusMm": 279,
+        "workingPressureBar": 206,
+        "burstPressureBar": 826
+      },
+      {
+        "nominalSize": "1 1/4",
+        "insideDiameterMm": 31.8,
+        "outsideDiameterMm": 51.6,
+        "staticBendRadiusMm": 165,
+        "dynamicBendRadiusMm": 318,
+        "workingPressureBar": 179,
+        "burstPressureBar": 716
+      },
+      {
+        "nominalSize": "1 1/2",
+        "insideDiameterMm": 38.1,
+        "outsideDiameterMm": 60.9,
+        "staticBendRadiusMm": 191,
+        "dynamicBendRadiusMm": 330,
+        "workingPressureBar": 151,
+        "burstPressureBar": 606
+      },
+      {
+        "nominalSize": "2",
+        "insideDiameterMm": 50.8,
+        "outsideDiameterMm": 72.4,
+        "staticBendRadiusMm": 229,
+        "dynamicBendRadiusMm": 356,
+        "workingPressureBar": 115,
+        "burstPressureBar": 461
+      }
+    ],
+    "coverMaterial": null,
+    "coverMaterialId": null,
+    "materialNormalization": {
+      "status": "normalized",
+      "version": 1,
+      "sourceFile": "metal-hoses.json",
+      "generatedBy": "manual-reviewed-v1"
+    }
+  },
+  {
+    "series": "FM",
+    "name": "Manguera metálica serie FM",
+    "family": "Manguera metálica",
+    "constructionType": "metal",
+    "vibrationSuitability": "low",
+    "bendRadiusMeasurement": "centerline",
+    "lowPermeationSuitable": true,
+    "description": "Manguera totalmente metálica de presión media-alta, con malla de una sola capa y buen rendimiento en aplicaciones de ciclos dinámicos.",
+    "coreMaterial": "Acero inoxidable 316L corrugado anular",
+    "coreMaterialId": "ss316l",
+    "availableCoreMaterialIds": [
+      "ss316l"
+    ],
+    "reinforcement": "Malla exterior de una capa de acero inoxidable 316L",
+    "reinforcementMaterialIds": [
+      "ss316l"
+    ],
+    "electricalProperty": "Conductiva",
+    "temperatureMinC": -200,
+    "temperatureMaxC": 454,
+    "basePressureTemperatureMaxC": 37,
+    "pressureReference": "Presión de servicio válida entre -200 y 37 °C",
+    "dynamicPerformance": "alto",
+    "sizes": [
+      {
+        "nominalSize": "1/4",
+        "insideDiameterMm": 7.1,
+        "outsideDiameterMm": 13.5,
+        "staticBendRadiusMm": 57.2,
+        "dynamicBendRadiusMm": 254,
+        "workingPressureBar": 213,
+        "burstPressureBar": 854
+      },
+      {
+        "nominalSize": "3/8",
+        "insideDiameterMm": 10.6,
+        "outsideDiameterMm": 17.5,
+        "staticBendRadiusMm": 76.2,
+        "dynamicBendRadiusMm": 305,
+        "workingPressureBar": 137,
+        "burstPressureBar": 551
+      },
+      {
+        "nominalSize": "1/2",
+        "insideDiameterMm": 13.5,
+        "outsideDiameterMm": 21.6,
+        "staticBendRadiusMm": 114,
+        "dynamicBendRadiusMm": 406,
+        "workingPressureBar": 124,
+        "burstPressureBar": 496
+      },
+      {
+        "nominalSize": "3/4",
+        "insideDiameterMm": 20.3,
+        "outsideDiameterMm": 29.1,
+        "staticBendRadiusMm": 152,
+        "dynamicBendRadiusMm": 432,
+        "workingPressureBar": 103,
+        "burstPressureBar": 413
+      },
+      {
+        "nominalSize": "1",
+        "insideDiameterMm": 26.0,
+        "outsideDiameterMm": 36.9,
+        "staticBendRadiusMm": 171,
+        "dynamicBendRadiusMm": 508,
+        "workingPressureBar": 82.6,
+        "burstPressureBar": 330
+      },
+      {
+        "nominalSize": "1 1/4",
+        "insideDiameterMm": 31.8,
+        "outsideDiameterMm": 48.3,
+        "staticBendRadiusMm": 114,
+        "dynamicBendRadiusMm": 318,
+        "workingPressureBar": 82.6,
+        "burstPressureBar": 330
+      },
+      {
+        "nominalSize": "1 1/2",
+        "insideDiameterMm": 38.1,
+        "outsideDiameterMm": 57.4,
+        "staticBendRadiusMm": 133,
+        "dynamicBendRadiusMm": 330,
+        "workingPressureBar": 75.7,
+        "burstPressureBar": 303
+      },
+      {
+        "nominalSize": "2",
+        "insideDiameterMm": 50.8,
+        "outsideDiameterMm": 69.1,
+        "staticBendRadiusMm": 171,
+        "dynamicBendRadiusMm": 356,
+        "workingPressureBar": 48.2,
+        "burstPressureBar": 192
+      }
+    ],
+    "coverMaterial": null,
+    "coverMaterialId": null,
+    "materialNormalization": {
+      "status": "normalized",
+      "version": 1,
+      "sourceFile": "metal-hoses.json",
+      "generatedBy": "manual-reviewed-v1"
+    }
+  },
+  {
+    "series": "FJ",
+    "name": "Manguera metálica serie FJ",
+    "family": "Manguera metálica",
+    "constructionType": "metal",
+    "vibrationSuitability": "low",
+    "bendRadiusMeasurement": "centerline",
+    "lowPermeationSuitable": true,
+    "description": "Manguera totalmente metálica para servicio general, vacío, alta temperatura o aplicaciones donde la permeabilidad no sea aceptable.",
+    "coreMaterial": "Acero inoxidable 316L corrugado anular",
+    "coreMaterialId": "ss316l",
+    "availableCoreMaterialIds": [
+      "ss316l"
+    ],
+    "reinforcement": "Malla exterior de acero inoxidable 304; disponible opcionalmente en acero inoxidable 316L",
+    "reinforcementMaterialIds": [
+      "ss304",
+      "ss316l"
+    ],
+    "electricalProperty": "Conductiva",
+    "temperatureMinC": -200,
+    "temperatureMaxC": 426,
+    "basePressureTemperatureMaxC": 148,
+    "pressureReference": "Presión de servicio válida entre -200 y 148 °C",
+    "dynamicPerformance": "medio",
+    "sizes": [
+      {
+        "nominalSize": "1/4",
+        "insideDiameterMm": 6.4,
+        "outsideDiameterMm": 12.2,
+        "staticBendRadiusMm": 25.4,
+        "dynamicBendRadiusMm": 110,
+        "workingPressureBar": 110,
+        "burstPressureBar": 440
+      },
+      {
+        "nominalSize": "3/8",
+        "insideDiameterMm": 9.5,
+        "outsideDiameterMm": 17.5,
+        "staticBendRadiusMm": 30.5,
+        "dynamicBendRadiusMm": 150,
+        "workingPressureBar": 101,
+        "burstPressureBar": 405
+      },
+      {
+        "nominalSize": "1/2",
+        "insideDiameterMm": 12.7,
+        "outsideDiameterMm": 20.8,
+        "staticBendRadiusMm": 38.1,
+        "dynamicBendRadiusMm": 165,
+        "workingPressureBar": 76.4,
+        "burstPressureBar": 306
+      },
+      {
+        "nominalSize": "3/4",
+        "insideDiameterMm": 19.0,
+        "outsideDiameterMm": 30.7,
+        "staticBendRadiusMm": 53.3,
+        "dynamicBendRadiusMm": 225,
+        "workingPressureBar": 59.2,
+        "burstPressureBar": 237
+      },
+      {
+        "nominalSize": "1",
+        "insideDiameterMm": 25.4,
+        "outsideDiameterMm": 38.4,
+        "staticBendRadiusMm": 68.6,
+        "dynamicBendRadiusMm": 259,
+        "workingPressureBar": 46.8,
+        "burstPressureBar": 187
+      },
+      {
+        "nominalSize": "1 1/4",
+        "insideDiameterMm": 31.8,
+        "outsideDiameterMm": 46.2,
+        "staticBendRadiusMm": 78.7,
+        "dynamicBendRadiusMm": 300,
+        "workingPressureBar": 46.8,
+        "burstPressureBar": 187
+      },
+      {
+        "nominalSize": "1 1/2",
+        "insideDiameterMm": 38.1,
+        "outsideDiameterMm": 54.4,
+        "staticBendRadiusMm": 99.1,
+        "dynamicBendRadiusMm": 340,
+        "workingPressureBar": 35.8,
+        "burstPressureBar": 143
+      },
+      {
+        "nominalSize": "2",
+        "insideDiameterMm": 50.8,
+        "outsideDiameterMm": 68.3,
+        "staticBendRadiusMm": 130,
+        "dynamicBendRadiusMm": 391,
+        "workingPressureBar": 31.0,
+        "burstPressureBar": 124
+      }
+    ],
+    "coverMaterial": null,
+    "coverMaterialId": null,
+    "materialNormalization": {
+      "status": "normalized",
+      "version": 1,
+      "sourceFile": "metal-hoses.json",
+      "generatedBy": "manual-reviewed-v1"
+    }
+  },
+  {
+    "series": "FL",
+    "name": "Manguera metálica serie FL",
+    "family": "Manguera metálica",
+    "constructionType": "metal",
+    "constructionGroup": "metal",
+    "description": "Manguera totalmente metálica y muy flexible, utilizada normalmente en aplicaciones de vacío, alta temperatura y ciclos dinámicos de servicio general.",
+    "coreMaterial": "Acero inoxidable 316L corrugado anular",
+    "coreMaterialId": "ss316l",
+    "availableCoreMaterialIds": [
+      "ss316l"
+    ],
+    "reinforcement": "Malla exterior de acero inoxidable 321 para 1/4 y 1/2 pulg.; acero inoxidable 316L para el resto de tamaños",
+    "reinforcementMaterialIds": [
+      "ss321",
+      "ss316l"
+    ],
+    "coverMaterial": null,
+    "coverMaterialId": null,
+    "electricalProperty": "Conductiva",
+    "temperatureMinC": -200,
+    "temperatureMaxC": 454,
+    "basePressureTemperatureMaxC": 37,
+    "pressureReference": "Presión de servicio publicada entre -200 y 37 °C; dispone de tabla presión-temperatura",
+    "dynamicPerformance": "alto",
+    "vibrationSuitability": "low",
+    "bendRadiusMeasurement": "centerline",
+    "lowPermeationSuitable": true,
+    "chemicalCompatibilityLevel": "medium",
+    "vacuumSuitable": true,
+    "sizes": [
+      {
+        "nominalSize": "1/4",
+        "insideDiameterMm": 6.4,
+        "outsideDiameterMm": 11.4,
+        "staticBendRadiusMm": 25.4,
+        "dynamicBendRadiusMm": 140,
+        "workingPressureBar": 103,
+        "burstPressureBar": 413
+      },
+      {
+        "nominalSize": "3/8",
+        "insideDiameterMm": 9.5,
+        "outsideDiameterMm": 17.8,
+        "staticBendRadiusMm": 25.4,
+        "dynamicBendRadiusMm": 102,
+        "workingPressureBar": 101,
+        "burstPressureBar": 405
+      },
+      {
+        "nominalSize": "1/2",
+        "insideDiameterMm": 12.7,
+        "outsideDiameterMm": 20.6,
+        "staticBendRadiusMm": 44.5,
+        "dynamicBendRadiusMm": 178,
+        "workingPressureBar": 82.6,
+        "burstPressureBar": 330
+      },
+      {
+        "nominalSize": "3/4",
+        "insideDiameterMm": 19.0,
+        "outsideDiameterMm": 31.0,
+        "staticBendRadiusMm": 43.2,
+        "dynamicBendRadiusMm": 163,
+        "workingPressureBar": 59.3,
+        "burstPressureBar": 237
+      },
+      {
+        "nominalSize": "1",
+        "insideDiameterMm": 25.4,
+        "outsideDiameterMm": 39.1,
+        "staticBendRadiusMm": 53.3,
+        "dynamicBendRadiusMm": 180,
+        "workingPressureBar": 46.8,
+        "burstPressureBar": 187
+      },
+      {
+        "nominalSize": "1 1/4",
+        "insideDiameterMm": 31.8,
+        "outsideDiameterMm": 46.7,
+        "staticBendRadiusMm": 63.5,
+        "dynamicBendRadiusMm": 201,
+        "workingPressureBar": 44.4,
+        "burstPressureBar": 178
+      },
+      {
+        "nominalSize": "1 1/2",
+        "insideDiameterMm": 38.1,
+        "outsideDiameterMm": 54.9,
+        "staticBendRadiusMm": 78.7,
+        "dynamicBendRadiusMm": 279,
+        "workingPressureBar": 35.8,
+        "burstPressureBar": 143
+      },
+      {
+        "nominalSize": "2",
+        "insideDiameterMm": 50.8,
+        "outsideDiameterMm": 68.3,
+        "staticBendRadiusMm": 102,
+        "dynamicBendRadiusMm": 330,
+        "workingPressureBar": 26.2,
+        "burstPressureBar": 105
+      }
+    ],
+    "warnings": [
+      "La presión admisible debe corregirse mediante la tabla presión-temperatura.",
+      "No someter la manguera metálica a pulsaciones, golpes de ariete o subidas bruscas superiores al 50 % de la presión de servicio.",
+      "Aunque presenta buen rendimiento en ciclos dinámicos, la vibración alta y continua requiere evaluación específica.",
+      "Las conexiones finales pueden limitar la presión y la temperatura del ensamblaje."
+    ],
+    "materialNormalization": {
+      "status": "normalized",
+      "version": 1,
+      "sourceFile": "metal-hoses.json",
+      "generatedBy": "manual-reviewed-v1"
+    }
+  },
+  {
+    "series": "AH",
+    "name": "Manguera metálica serie AH",
+    "family": "Manguera metálica",
+    "constructionType": "metal",
+    "constructionGroup": "metal",
+    "description": "Manguera totalmente metálica resistente a la corrosión, utilizada normalmente en vacío, alta temperatura y aplicaciones en las que no es aceptable la permeabilidad.",
+    "coreMaterial": "Aleación C-276 corrugada anular",
+    "coreMaterialId": "alloy_c276",
+    "availableCoreMaterialIds": [
+      "alloy_c276"
+    ],
+    "reinforcement": "Malla exterior de una capa de acero inoxidable 316L",
+    "reinforcementMaterialIds": [
+      "ss316l"
+    ],
+    "coverMaterial": null,
+    "coverMaterialId": null,
+    "electricalProperty": "Conductiva",
+    "temperatureMinC": -200,
+    "temperatureMaxC": 426,
+    "basePressureTemperatureMaxC": 148,
+    "pressureReference": "Presión de servicio publicada entre -200 y 148 °C; dispone de tabla presión-temperatura",
+    "dynamicPerformance": "medio",
+    "vibrationSuitability": "low",
+    "bendRadiusMeasurement": "centerline",
+    "lowPermeationSuitable": true,
+    "chemicalCompatibilityLevel": "high",
+    "vacuumSuitable": true,
+    "sizes": [
+      {
+        "nominalSize": "1/2",
+        "insideDiameterMm": 12.7,
+        "outsideDiameterMm": 20.8,
+        "staticBendRadiusMm": 38.1,
+        "dynamicBendRadiusMm": 165,
+        "workingPressureBar": 76.4,
+        "burstPressureBar": 306
+      },
+      {
+        "nominalSize": "3/4",
+        "insideDiameterMm": 19.0,
+        "outsideDiameterMm": 30.7,
+        "staticBendRadiusMm": 53.3,
+        "dynamicBendRadiusMm": 225,
+        "workingPressureBar": 59.2,
+        "burstPressureBar": 237
+      },
+      {
+        "nominalSize": "1",
+        "insideDiameterMm": 25.4,
+        "outsideDiameterMm": 38.4,
+        "staticBendRadiusMm": 68.6,
+        "dynamicBendRadiusMm": 259,
+        "workingPressureBar": 46.8,
+        "burstPressureBar": 187
+      },
+      {
+        "nominalSize": "1 1/2",
+        "insideDiameterMm": 38.1,
+        "outsideDiameterMm": 53.8,
+        "staticBendRadiusMm": 99.1,
+        "dynamicBendRadiusMm": 340,
+        "workingPressureBar": 35.8,
+        "burstPressureBar": 143
+      },
+      {
+        "nominalSize": "2",
+        "insideDiameterMm": 50.8,
+        "outsideDiameterMm": 67.8,
+        "staticBendRadiusMm": 130,
+        "dynamicBendRadiusMm": 391,
+        "workingPressureBar": 31.0,
+        "burstPressureBar": 124
+      }
+    ],
+    "warnings": [
+      "La presión admisible debe corregirse mediante la tabla presión-temperatura.",
+      "La selección de la serie AH debe considerar la compatibilidad de todos los materiales húmedos y de las conexiones finales.",
+      "No someter la manguera metálica a pulsaciones, golpes de ariete o subidas bruscas superiores al 50 % de la presión de servicio.",
+      "Las conexiones finales pueden limitar la presión y la temperatura del ensamblaje."
+    ],
+    "materialNormalization": {
+      "status": "normalized",
+      "version": 1,
+      "sourceFile": "metal-hoses.json",
+      "generatedBy": "manual-reviewed-v1"
+    }
+  },
+  {
+    "series": "FV",
+    "name": "Manguera metálica con aislamiento por vacío serie FV",
+    "family": "Manguera metálica",
+    "constructionType": "metal",
+    "constructionGroup": "metal",
+    "description": "Manguera metálica con aislamiento por vacío, diseñada para reducir la transferencia de calor en aplicaciones con fluidos a temperaturas extremas.",
+    "coreMaterial": "Tubo interior y superficies húmedas de acero inoxidable 316L",
+    "coreMaterialId": "ss316l",
+    "availableCoreMaterialIds": [
+      "ss316l"
+    ],
+    "reinforcement": "Malla exterior de acero inoxidable 304L, aislamiento cerámico y tubo exterior de acero inoxidable 316L",
+    "reinforcementMaterialIds": [
+      "ss304l",
+      "ceramic_insulation",
+      "ss316l"
+    ],
+    "coverMaterial": "Manguito exterior de poliolefina disponible en varios colores",
+    "coverMaterialId": "polyolefin",
+    "electricalProperty": "Conductiva",
+    "temperatureMinC": -253,
+    "temperatureMaxC": 537,
+    "basePressureTemperatureMaxC": 148,
+    "pressureReference": "Presión de servicio publicada entre -253 y 148 °C; dispone de tabla presión-temperatura",
+    "dynamicPerformance": "limitado",
+    "vibrationSuitability": "low",
+    "bendRadiusMeasurement": "centerline",
+    "lowPermeationSuitable": true,
+    "chemicalCompatibilityLevel": "medium",
+    "vacuumSuitable": true,
+    "sizes": [
+      {
+        "nominalSize": "1/2",
+        "insideDiameterMm": 11.9,
+        "outsideDiameterMm": 32.3,
+        "staticBendRadiusMm": 127,
+        "dynamicBendRadiusMm": null,
+        "workingPressureBar": 41.3,
+        "burstPressureBar": 165
+      },
+      {
+        "nominalSize": "3/4",
+        "insideDiameterMm": 20.1,
+        "outsideDiameterMm": 41.2,
+        "staticBendRadiusMm": 156,
+        "dynamicBendRadiusMm": null,
+        "workingPressureBar": 33.7,
+        "burstPressureBar": 135
+      },
+      {
+        "nominalSize": "1",
+        "insideDiameterMm": 25.0,
+        "outsideDiameterMm": 49.5,
+        "staticBendRadiusMm": 194,
+        "dynamicBendRadiusMm": null,
+        "workingPressureBar": 27.5,
+        "burstPressureBar": 110
+      }
+    ],
+    "warnings": [
+      "La serie FV recocida no está clasificada para aplicaciones altamente dinámicas.",
+      "Los radios y diámetros exteriores corresponden a la configuración con aislamiento únicamente por vacío.",
+      "La configuración con protección radiante presenta un diámetro exterior y radio estático mayores.",
+      "La presión admisible debe corregirse mediante la tabla presión-temperatura.",
+      "No someter la manguera metálica a pulsaciones, golpes de ariete o subidas bruscas superiores al 50 % de la presión de servicio."
+    ],
+    "materialNormalization": {
+      "status": "normalized",
+      "version": 1,
+      "sourceFile": "metal-hoses.json",
+      "generatedBy": "manual-reviewed-v1"
+    }
+  }
+]

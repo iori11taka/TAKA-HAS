@@ -1,0 +1,106 @@
+[
+  {
+    "id": "aqueous_media",
+    "name": "Medios acuosos",
+    "inheritancePolicy": "allowed_with_exceptions",
+    "warnings": [
+      "Salinidad, pH, biocidas y contaminantes pueden modificar el resultado."
+    ]
+  },
+  {
+    "id": "inert_and_utility_gases",
+    "name": "Gases inertes y de servicio",
+    "inheritancePolicy": "allowed_with_exceptions",
+    "warnings": [
+      "Verificar humedad, aceite y pureza."
+    ]
+  },
+  {
+    "id": "oxidizing_gases",
+    "name": "Gases oxidantes",
+    "inheritancePolicy": "review_only",
+    "warnings": [
+      "La compatibilidad química no sustituye la aprobación para servicio de oxígeno."
+    ]
+  },
+  {
+    "id": "light_fuel_gases",
+    "name": "Gases combustibles ligeros",
+    "inheritancePolicy": "review_only",
+    "warnings": [
+      "Evaluar permeación y ventilación."
+    ]
+  },
+  {
+    "id": "hydrocarbon_fuel_gases",
+    "name": "Gases combustibles hidrocarburos",
+    "inheritancePolicy": "allowed_with_exceptions",
+    "warnings": [
+      "La composición real del fluido debe confirmarse."
+    ]
+  },
+  {
+    "id": "cryogenic_hydrocarbons",
+    "name": "Hidrocarburos criogénicos",
+    "inheritancePolicy": "specific_only",
+    "warnings": [
+      "No aprobar mediante herencia familiar sin datos criogénicos específicos."
+    ]
+  },
+  {
+    "id": "acid_gases",
+    "name": "Gases ácidos",
+    "inheritancePolicy": "review_only",
+    "warnings": [
+      "Definir humedad, fase y servicio ácido."
+    ]
+  },
+  {
+    "id": "halogen_oxidizers",
+    "name": "Halógenos oxidantes",
+    "inheritancePolicy": "specific_only",
+    "warnings": [
+      "La humedad altera radicalmente la compatibilidad."
+    ]
+  },
+  {
+    "id": "mineral_acids",
+    "name": "Ácidos minerales",
+    "inheritancePolicy": "review_only",
+    "warnings": [
+      "Concentración y temperatura son obligatorias."
+    ]
+  },
+  {
+    "id": "strong_bases",
+    "name": "Bases fuertes",
+    "inheritancePolicy": "review_only",
+    "warnings": [
+      "Concentración y temperatura son obligatorias."
+    ]
+  },
+  {
+    "id": "alkaline_gases_and_solutions",
+    "name": "Gases y soluciones alcalinas",
+    "inheritancePolicy": "specific_only",
+    "warnings": [
+      "Distinguir solución, vapor y fluido anhidro."
+    ]
+  },
+  {
+    "id": "alcohols",
+    "name": "Alcoholes",
+    "inheritancePolicy": "allowed_with_exceptions",
+    "warnings": [
+      "Contenido de agua y aditivos pueden modificar el resultado."
+    ]
+  },
+  {
+    "id": "petroleum_oils",
+    "name": "Aceites de petróleo",
+    "inheritancePolicy": "allowed_with_exceptions",
+    "warnings": [
+      "La formulación y los aditivos deben identificarse."
+    ]
+  }
+]

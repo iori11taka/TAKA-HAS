@@ -1,0 +1,3404 @@
+[
+  {
+    "fluidId": "water",
+    "materialId": "ptfe",
+    "rating": "compatible",
+    "phase": "liquid",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatible como criterio preliminar de resistencia química del material del ánima. Validar temperatura, presión, permeación, limpieza y conexiones finales.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "water",
+    "materialId": "filled_ptfe",
+    "rating": "compatible",
+    "phase": "liquid",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatible como criterio preliminar de resistencia química del material del ánima. Validar temperatura, presión, permeación, limpieza y conexiones finales.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "water",
+    "materialId": "ss304",
+    "rating": "compatible",
+    "phase": "liquid",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatible como criterio preliminar de resistencia química del material del ánima. Validar temperatura, presión, permeación, limpieza y conexiones finales.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "water",
+    "materialId": "ss316l",
+    "rating": "compatible",
+    "phase": "liquid",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatible como criterio preliminar de resistencia química del material del ánima. Validar temperatura, presión, permeación, limpieza y conexiones finales.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "water",
+    "materialId": "nylon",
+    "rating": "compatible",
+    "phase": "liquid",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatible como criterio preliminar de resistencia química del material del ánima. Validar temperatura, presión, permeación, limpieza y conexiones finales.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "water",
+    "materialId": "polyethylene",
+    "rating": "compatible",
+    "phase": "liquid",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatible como criterio preliminar de resistencia química del material del ánima. Validar temperatura, presión, permeación, limpieza y conexiones finales.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "water",
+    "materialId": "buna_n",
+    "rating": "compatible",
+    "phase": "liquid",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatible como criterio preliminar de resistencia química del material del ánima. Validar temperatura, presión, permeación, limpieza y conexiones finales.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "water",
+    "materialId": "epdm",
+    "rating": "compatible",
+    "phase": "liquid",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatible como criterio preliminar de resistencia química del material del ánima. Validar temperatura, presión, permeación, limpieza y conexiones finales.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "water",
+    "materialId": "silicone",
+    "rating": "conditional",
+    "phase": "liquid",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatibilidad condicionada. Se requiere revisar composición, temperatura, presión, permeación y configuración completa del ensamblaje.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "seawater",
+    "materialId": "ptfe",
+    "rating": "compatible",
+    "phase": "liquid",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatible como criterio preliminar de resistencia química del material del ánima. Validar temperatura, presión, permeación, limpieza y conexiones finales.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "seawater",
+    "materialId": "filled_ptfe",
+    "rating": "compatible",
+    "phase": "liquid",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatible como criterio preliminar de resistencia química del material del ánima. Validar temperatura, presión, permeación, limpieza y conexiones finales.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "seawater",
+    "materialId": "ss304",
+    "rating": "conditional",
+    "phase": "liquid",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatibilidad condicionada. Se requiere revisar composición, temperatura, presión, permeación y configuración completa del ensamblaje. El acero inoxidable 304 tiene riesgo elevado de picadura y corrosión por cloruros; se mantiene solo como revisión condicionada.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "seawater",
+    "materialId": "ss316l",
+    "rating": "compatible",
+    "phase": "liquid",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatible como criterio preliminar de resistencia química del material del ánima. Validar temperatura, presión, permeación, limpieza y conexiones finales. El 316L suele ofrecer mejor resistencia a cloruros que 304, pero no es inmune a picadura o corrosión en rendijas.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "seawater",
+    "materialId": "nylon",
+    "rating": "conditional",
+    "phase": "liquid",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatibilidad condicionada. Se requiere revisar composición, temperatura, presión, permeación y configuración completa del ensamblaje.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "seawater",
+    "materialId": "polyethylene",
+    "rating": "compatible",
+    "phase": "liquid",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatible como criterio preliminar de resistencia química del material del ánima. Validar temperatura, presión, permeación, limpieza y conexiones finales.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "seawater",
+    "materialId": "buna_n",
+    "rating": "compatible",
+    "phase": "liquid",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatible como criterio preliminar de resistencia química del material del ánima. Validar temperatura, presión, permeación, limpieza y conexiones finales.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "seawater",
+    "materialId": "epdm",
+    "rating": "compatible",
+    "phase": "liquid",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatible como criterio preliminar de resistencia química del material del ánima. Validar temperatura, presión, permeación, limpieza y conexiones finales.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "seawater",
+    "materialId": "silicone",
+    "rating": "conditional",
+    "phase": "liquid",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatibilidad condicionada. Se requiere revisar composición, temperatura, presión, permeación y configuración completa del ensamblaje.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "compressed_air",
+    "materialId": "ptfe",
+    "rating": "compatible",
+    "phase": "gas",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatible como criterio preliminar de resistencia química del material del ánima. Validar temperatura, presión, permeación, limpieza y conexiones finales.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "compressed_air",
+    "materialId": "filled_ptfe",
+    "rating": "compatible",
+    "phase": "gas",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatible como criterio preliminar de resistencia química del material del ánima. Validar temperatura, presión, permeación, limpieza y conexiones finales.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "compressed_air",
+    "materialId": "ss304",
+    "rating": "compatible",
+    "phase": "gas",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatible como criterio preliminar de resistencia química del material del ánima. Validar temperatura, presión, permeación, limpieza y conexiones finales.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "compressed_air",
+    "materialId": "ss316l",
+    "rating": "compatible",
+    "phase": "gas",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatible como criterio preliminar de resistencia química del material del ánima. Validar temperatura, presión, permeación, limpieza y conexiones finales.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "compressed_air",
+    "materialId": "nylon",
+    "rating": "compatible",
+    "phase": "gas",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatible como criterio preliminar de resistencia química del material del ánima. Validar temperatura, presión, permeación, limpieza y conexiones finales.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "compressed_air",
+    "materialId": "polyethylene",
+    "rating": "compatible",
+    "phase": "gas",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatible como criterio preliminar de resistencia química del material del ánima. Validar temperatura, presión, permeación, limpieza y conexiones finales.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "compressed_air",
+    "materialId": "buna_n",
+    "rating": "compatible",
+    "phase": "gas",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatible como criterio preliminar de resistencia química del material del ánima. Validar temperatura, presión, permeación, limpieza y conexiones finales.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "compressed_air",
+    "materialId": "epdm",
+    "rating": "compatible",
+    "phase": "gas",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatible como criterio preliminar de resistencia química del material del ánima. Validar temperatura, presión, permeación, limpieza y conexiones finales.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "compressed_air",
+    "materialId": "silicone",
+    "rating": "compatible",
+    "phase": "gas",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatible como criterio preliminar de resistencia química del material del ánima. Validar temperatura, presión, permeación, limpieza y conexiones finales.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "nitrogen",
+    "materialId": "ptfe",
+    "rating": "compatible",
+    "phase": "gas",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatible como criterio preliminar de resistencia química del material del ánima. Validar temperatura, presión, permeación, limpieza y conexiones finales.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "nitrogen",
+    "materialId": "filled_ptfe",
+    "rating": "compatible",
+    "phase": "gas",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatible como criterio preliminar de resistencia química del material del ánima. Validar temperatura, presión, permeación, limpieza y conexiones finales.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "nitrogen",
+    "materialId": "ss304",
+    "rating": "compatible",
+    "phase": "gas",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatible como criterio preliminar de resistencia química del material del ánima. Validar temperatura, presión, permeación, limpieza y conexiones finales.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "nitrogen",
+    "materialId": "ss316l",
+    "rating": "compatible",
+    "phase": "gas",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatible como criterio preliminar de resistencia química del material del ánima. Validar temperatura, presión, permeación, limpieza y conexiones finales.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "nitrogen",
+    "materialId": "nylon",
+    "rating": "compatible",
+    "phase": "gas",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatible como criterio preliminar de resistencia química del material del ánima. Validar temperatura, presión, permeación, limpieza y conexiones finales.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "nitrogen",
+    "materialId": "polyethylene",
+    "rating": "compatible",
+    "phase": "gas",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatible como criterio preliminar de resistencia química del material del ánima. Validar temperatura, presión, permeación, limpieza y conexiones finales.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "nitrogen",
+    "materialId": "buna_n",
+    "rating": "compatible",
+    "phase": "gas",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatible como criterio preliminar de resistencia química del material del ánima. Validar temperatura, presión, permeación, limpieza y conexiones finales.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "nitrogen",
+    "materialId": "epdm",
+    "rating": "compatible",
+    "phase": "gas",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatible como criterio preliminar de resistencia química del material del ánima. Validar temperatura, presión, permeación, limpieza y conexiones finales.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "nitrogen",
+    "materialId": "silicone",
+    "rating": "compatible",
+    "phase": "gas",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatible como criterio preliminar de resistencia química del material del ánima. Validar temperatura, presión, permeación, limpieza y conexiones finales.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "oxygen",
+    "materialId": "ptfe",
+    "rating": "conditional",
+    "phase": "gas",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatibilidad condicionada. Se requiere revisar composición, temperatura, presión, permeación y configuración completa del ensamblaje. Servicio de oxígeno: la compatibilidad química por sí sola no constituye aprobación. Exigir limpieza para oxígeno, control de ignición, lubricantes compatibles y límites de presión/velocidad.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-06-13",
+      "Swagelok MS-01-180"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "oxygen",
+    "materialId": "filled_ptfe",
+    "rating": "conditional",
+    "phase": "gas",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatibilidad condicionada. Se requiere revisar composición, temperatura, presión, permeación y configuración completa del ensamblaje. Servicio de oxígeno: la compatibilidad química por sí sola no constituye aprobación. Exigir limpieza para oxígeno, control de ignición, lubricantes compatibles y límites de presión/velocidad.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-06-13",
+      "Swagelok MS-01-180"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "oxygen",
+    "materialId": "ss304",
+    "rating": "conditional",
+    "phase": "gas",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatibilidad condicionada. Se requiere revisar composición, temperatura, presión, permeación y configuración completa del ensamblaje. Servicio de oxígeno: la compatibilidad química por sí sola no constituye aprobación. Exigir limpieza para oxígeno, control de ignición, lubricantes compatibles y límites de presión/velocidad.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-06-13",
+      "Swagelok MS-01-180"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "oxygen",
+    "materialId": "ss316l",
+    "rating": "conditional",
+    "phase": "gas",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatibilidad condicionada. Se requiere revisar composición, temperatura, presión, permeación y configuración completa del ensamblaje. Servicio de oxígeno: la compatibilidad química por sí sola no constituye aprobación. Exigir limpieza para oxígeno, control de ignición, lubricantes compatibles y límites de presión/velocidad.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-06-13",
+      "Swagelok MS-01-180"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "oxygen",
+    "materialId": "nylon",
+    "rating": "conditional",
+    "phase": "gas",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatibilidad condicionada. Se requiere revisar composición, temperatura, presión, permeación y configuración completa del ensamblaje. Servicio de oxígeno: la compatibilidad química por sí sola no constituye aprobación. Exigir limpieza para oxígeno, control de ignición, lubricantes compatibles y límites de presión/velocidad.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-06-13",
+      "Swagelok MS-01-180"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "oxygen",
+    "materialId": "polyethylene",
+    "rating": "conditional",
+    "phase": "gas",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatibilidad condicionada. Se requiere revisar composición, temperatura, presión, permeación y configuración completa del ensamblaje. Servicio de oxígeno: la compatibilidad química por sí sola no constituye aprobación. Exigir limpieza para oxígeno, control de ignición, lubricantes compatibles y límites de presión/velocidad.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-06-13",
+      "Swagelok MS-01-180"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "oxygen",
+    "materialId": "buna_n",
+    "rating": "conditional",
+    "phase": "gas",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatibilidad condicionada. Se requiere revisar composición, temperatura, presión, permeación y configuración completa del ensamblaje. Servicio de oxígeno: la compatibilidad química por sí sola no constituye aprobación. Exigir limpieza para oxígeno, control de ignición, lubricantes compatibles y límites de presión/velocidad.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-06-13",
+      "Swagelok MS-01-180"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "oxygen",
+    "materialId": "epdm",
+    "rating": "conditional",
+    "phase": "gas",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatibilidad condicionada. Se requiere revisar composición, temperatura, presión, permeación y configuración completa del ensamblaje. Servicio de oxígeno: la compatibilidad química por sí sola no constituye aprobación. Exigir limpieza para oxígeno, control de ignición, lubricantes compatibles y límites de presión/velocidad.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-06-13",
+      "Swagelok MS-01-180"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "oxygen",
+    "materialId": "silicone",
+    "rating": "conditional",
+    "phase": "gas",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatibilidad condicionada. Se requiere revisar composición, temperatura, presión, permeación y configuración completa del ensamblaje. Servicio de oxígeno: la compatibilidad química por sí sola no constituye aprobación. Exigir limpieza para oxígeno, control de ignición, lubricantes compatibles y límites de presión/velocidad.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-06-13",
+      "Swagelok MS-01-180"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "hydrogen",
+    "materialId": "ptfe",
+    "rating": "conditional",
+    "phase": "gas",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatibilidad condicionada. Se requiere revisar composición, temperatura, presión, permeación y configuración completa del ensamblaje. Servicio de hidrógeno: revisar permeación, fugas, ventilación, disipación electrostática y aptitud de conexiones. Para metales, considerar condiciones de presión y fatiga.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "hydrogen",
+    "materialId": "filled_ptfe",
+    "rating": "conditional",
+    "phase": "gas",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatibilidad condicionada. Se requiere revisar composición, temperatura, presión, permeación y configuración completa del ensamblaje. Servicio de hidrógeno: revisar permeación, fugas, ventilación, disipación electrostática y aptitud de conexiones. Para metales, considerar condiciones de presión y fatiga.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "hydrogen",
+    "materialId": "ss304",
+    "rating": "compatible",
+    "phase": "gas",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatible como criterio preliminar de resistencia química del material del ánima. Validar temperatura, presión, permeación, limpieza y conexiones finales. Servicio de hidrógeno: revisar permeación, fugas, ventilación, disipación electrostática y aptitud de conexiones. Para metales, considerar condiciones de presión y fatiga.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "hydrogen",
+    "materialId": "ss316l",
+    "rating": "compatible",
+    "phase": "gas",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatible como criterio preliminar de resistencia química del material del ánima. Validar temperatura, presión, permeación, limpieza y conexiones finales. Servicio de hidrógeno: revisar permeación, fugas, ventilación, disipación electrostática y aptitud de conexiones. Para metales, considerar condiciones de presión y fatiga.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "hydrogen",
+    "materialId": "nylon",
+    "rating": "conditional",
+    "phase": "gas",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatibilidad condicionada. Se requiere revisar composición, temperatura, presión, permeación y configuración completa del ensamblaje. Servicio de hidrógeno: revisar permeación, fugas, ventilación, disipación electrostática y aptitud de conexiones. Para metales, considerar condiciones de presión y fatiga.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "hydrogen",
+    "materialId": "polyethylene",
+    "rating": "conditional",
+    "phase": "gas",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatibilidad condicionada. Se requiere revisar composición, temperatura, presión, permeación y configuración completa del ensamblaje. Servicio de hidrógeno: revisar permeación, fugas, ventilación, disipación electrostática y aptitud de conexiones. Para metales, considerar condiciones de presión y fatiga.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "hydrogen",
+    "materialId": "buna_n",
+    "rating": "conditional",
+    "phase": "gas",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatibilidad condicionada. Se requiere revisar composición, temperatura, presión, permeación y configuración completa del ensamblaje. Servicio de hidrógeno: revisar permeación, fugas, ventilación, disipación electrostática y aptitud de conexiones. Para metales, considerar condiciones de presión y fatiga.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "hydrogen",
+    "materialId": "epdm",
+    "rating": "conditional",
+    "phase": "gas",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatibilidad condicionada. Se requiere revisar composición, temperatura, presión, permeación y configuración completa del ensamblaje. Servicio de hidrógeno: revisar permeación, fugas, ventilación, disipación electrostática y aptitud de conexiones. Para metales, considerar condiciones de presión y fatiga.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "hydrogen",
+    "materialId": "silicone",
+    "rating": "conditional",
+    "phase": "gas",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatibilidad condicionada. Se requiere revisar composición, temperatura, presión, permeación y configuración completa del ensamblaje. Servicio de hidrógeno: revisar permeación, fugas, ventilación, disipación electrostática y aptitud de conexiones. Para metales, considerar condiciones de presión y fatiga.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "natural_gas",
+    "materialId": "ptfe",
+    "rating": "compatible",
+    "phase": "gas",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatible como criterio preliminar de resistencia química del material del ánima. Validar temperatura, presión, permeación, limpieza y conexiones finales.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "natural_gas",
+    "materialId": "filled_ptfe",
+    "rating": "compatible",
+    "phase": "gas",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatible como criterio preliminar de resistencia química del material del ánima. Validar temperatura, presión, permeación, limpieza y conexiones finales.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "natural_gas",
+    "materialId": "ss304",
+    "rating": "compatible",
+    "phase": "gas",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatible como criterio preliminar de resistencia química del material del ánima. Validar temperatura, presión, permeación, limpieza y conexiones finales.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "natural_gas",
+    "materialId": "ss316l",
+    "rating": "compatible",
+    "phase": "gas",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatible como criterio preliminar de resistencia química del material del ánima. Validar temperatura, presión, permeación, limpieza y conexiones finales.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "natural_gas",
+    "materialId": "nylon",
+    "rating": "compatible",
+    "phase": "gas",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatible como criterio preliminar de resistencia química del material del ánima. Validar temperatura, presión, permeación, limpieza y conexiones finales.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "natural_gas",
+    "materialId": "polyethylene",
+    "rating": "compatible",
+    "phase": "gas",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatible como criterio preliminar de resistencia química del material del ánima. Validar temperatura, presión, permeación, limpieza y conexiones finales.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "natural_gas",
+    "materialId": "buna_n",
+    "rating": "compatible",
+    "phase": "gas",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatible como criterio preliminar de resistencia química del material del ánima. Validar temperatura, presión, permeación, limpieza y conexiones finales.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "natural_gas",
+    "materialId": "epdm",
+    "rating": "not_recommended",
+    "phase": "gas",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "No recomendado como selección preliminar para contacto continuo con este fluido; consultar una alternativa y confirmar con ingeniería de materiales. EPDM no se recomienda normalmente para hidrocarburos de petróleo por hinchamiento y pérdida de propiedades.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "natural_gas",
+    "materialId": "silicone",
+    "rating": "conditional",
+    "phase": "gas",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatibilidad condicionada. Se requiere revisar composición, temperatura, presión, permeación y configuración completa del ensamblaje.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "lpg",
+    "materialId": "ptfe",
+    "rating": "compatible",
+    "phase": "liquefied_gas",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatible como criterio preliminar de resistencia química del material del ánima. Validar temperatura, presión, permeación, limpieza y conexiones finales.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "lpg",
+    "materialId": "filled_ptfe",
+    "rating": "compatible",
+    "phase": "liquefied_gas",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatible como criterio preliminar de resistencia química del material del ánima. Validar temperatura, presión, permeación, limpieza y conexiones finales.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "lpg",
+    "materialId": "ss304",
+    "rating": "compatible",
+    "phase": "liquefied_gas",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatible como criterio preliminar de resistencia química del material del ánima. Validar temperatura, presión, permeación, limpieza y conexiones finales.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "lpg",
+    "materialId": "ss316l",
+    "rating": "compatible",
+    "phase": "liquefied_gas",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatible como criterio preliminar de resistencia química del material del ánima. Validar temperatura, presión, permeación, limpieza y conexiones finales.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "lpg",
+    "materialId": "nylon",
+    "rating": "compatible",
+    "phase": "liquefied_gas",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatible como criterio preliminar de resistencia química del material del ánima. Validar temperatura, presión, permeación, limpieza y conexiones finales.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "lpg",
+    "materialId": "polyethylene",
+    "rating": "compatible",
+    "phase": "liquefied_gas",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatible como criterio preliminar de resistencia química del material del ánima. Validar temperatura, presión, permeación, limpieza y conexiones finales.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "lpg",
+    "materialId": "buna_n",
+    "rating": "compatible",
+    "phase": "liquefied_gas",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatible como criterio preliminar de resistencia química del material del ánima. Validar temperatura, presión, permeación, limpieza y conexiones finales.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "lpg",
+    "materialId": "epdm",
+    "rating": "not_recommended",
+    "phase": "liquefied_gas",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "No recomendado como selección preliminar para contacto continuo con este fluido; consultar una alternativa y confirmar con ingeniería de materiales. EPDM no se recomienda normalmente para hidrocarburos licuados por hinchamiento y pérdida de propiedades.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "lpg",
+    "materialId": "silicone",
+    "rating": "conditional",
+    "phase": "liquefied_gas",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatibilidad condicionada. Se requiere revisar composición, temperatura, presión, permeación y configuración completa del ensamblaje.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "lng",
+    "materialId": "ptfe",
+    "rating": "conditional",
+    "phase": "cryogenic_liquid",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatibilidad condicionada. Se requiere revisar composición, temperatura, presión, permeación y configuración completa del ensamblaje. Servicio criogénico: la serie y el ensamblaje completo deben estar calificados para la temperatura mínima, ciclos térmicos y limpieza requerida.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Nickel Institute 4368",
+      "Swagelok MS-01-180"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "lng",
+    "materialId": "filled_ptfe",
+    "rating": "conditional",
+    "phase": "cryogenic_liquid",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatibilidad condicionada. Se requiere revisar composición, temperatura, presión, permeación y configuración completa del ensamblaje. Servicio criogénico: la serie y el ensamblaje completo deben estar calificados para la temperatura mínima, ciclos térmicos y limpieza requerida.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Nickel Institute 4368",
+      "Swagelok MS-01-180"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "lng",
+    "materialId": "ss304",
+    "rating": "compatible",
+    "phase": "cryogenic_liquid",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": -196,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatible como criterio preliminar de resistencia química del material del ánima. Validar temperatura, presión, permeación, limpieza y conexiones finales. Servicio criogénico: la serie y el ensamblaje completo deben estar calificados para la temperatura mínima, ciclos térmicos y limpieza requerida.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Nickel Institute 4368",
+      "Swagelok MS-01-180"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "lng",
+    "materialId": "ss316l",
+    "rating": "compatible",
+    "phase": "cryogenic_liquid",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": -196,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatible como criterio preliminar de resistencia química del material del ánima. Validar temperatura, presión, permeación, limpieza y conexiones finales. Servicio criogénico: la serie y el ensamblaje completo deben estar calificados para la temperatura mínima, ciclos térmicos y limpieza requerida.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Nickel Institute 4368",
+      "Swagelok MS-01-180"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "lng",
+    "materialId": "nylon",
+    "rating": "not_recommended",
+    "phase": "cryogenic_liquid",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "No recomendado como selección preliminar para contacto continuo con este fluido; consultar una alternativa y confirmar con ingeniería de materiales. Servicio criogénico: la serie y el ensamblaje completo deben estar calificados para la temperatura mínima, ciclos térmicos y limpieza requerida.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Nickel Institute 4368",
+      "Swagelok MS-01-180"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "lng",
+    "materialId": "polyethylene",
+    "rating": "not_recommended",
+    "phase": "cryogenic_liquid",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "No recomendado como selección preliminar para contacto continuo con este fluido; consultar una alternativa y confirmar con ingeniería de materiales. Servicio criogénico: la serie y el ensamblaje completo deben estar calificados para la temperatura mínima, ciclos térmicos y limpieza requerida.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Nickel Institute 4368",
+      "Swagelok MS-01-180"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "lng",
+    "materialId": "buna_n",
+    "rating": "not_recommended",
+    "phase": "cryogenic_liquid",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "No recomendado como selección preliminar para contacto continuo con este fluido; consultar una alternativa y confirmar con ingeniería de materiales. Servicio criogénico: la serie y el ensamblaje completo deben estar calificados para la temperatura mínima, ciclos térmicos y limpieza requerida.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Nickel Institute 4368",
+      "Swagelok MS-01-180"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "lng",
+    "materialId": "epdm",
+    "rating": "not_recommended",
+    "phase": "cryogenic_liquid",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "No recomendado como selección preliminar para contacto continuo con este fluido; consultar una alternativa y confirmar con ingeniería de materiales. Servicio criogénico: la serie y el ensamblaje completo deben estar calificados para la temperatura mínima, ciclos térmicos y limpieza requerida.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Nickel Institute 4368",
+      "Swagelok MS-01-180"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "lng",
+    "materialId": "silicone",
+    "rating": "not_recommended",
+    "phase": "cryogenic_liquid",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "No recomendado como selección preliminar para contacto continuo con este fluido; consultar una alternativa y confirmar con ingeniería de materiales. Servicio criogénico: la serie y el ensamblaje completo deben estar calificados para la temperatura mínima, ciclos térmicos y limpieza requerida.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Nickel Institute 4368",
+      "Swagelok MS-01-180"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "co2",
+    "materialId": "ptfe",
+    "rating": "compatible",
+    "phase": "gas",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatible como criterio preliminar de resistencia química del material del ánima. Validar temperatura, presión, permeación, limpieza y conexiones finales.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "co2",
+    "materialId": "filled_ptfe",
+    "rating": "compatible",
+    "phase": "gas",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatible como criterio preliminar de resistencia química del material del ánima. Validar temperatura, presión, permeación, limpieza y conexiones finales.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "co2",
+    "materialId": "ss304",
+    "rating": "compatible",
+    "phase": "gas",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatible como criterio preliminar de resistencia química del material del ánima. Validar temperatura, presión, permeación, limpieza y conexiones finales.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "co2",
+    "materialId": "ss316l",
+    "rating": "compatible",
+    "phase": "gas",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatible como criterio preliminar de resistencia química del material del ánima. Validar temperatura, presión, permeación, limpieza y conexiones finales.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "co2",
+    "materialId": "nylon",
+    "rating": "conditional",
+    "phase": "gas",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatibilidad condicionada. Se requiere revisar composición, temperatura, presión, permeación y configuración completa del ensamblaje.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "co2",
+    "materialId": "polyethylene",
+    "rating": "conditional",
+    "phase": "gas",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatibilidad condicionada. Se requiere revisar composición, temperatura, presión, permeación y configuración completa del ensamblaje.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "co2",
+    "materialId": "buna_n",
+    "rating": "conditional",
+    "phase": "gas",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatibilidad condicionada. Se requiere revisar composición, temperatura, presión, permeación y configuración completa del ensamblaje.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "co2",
+    "materialId": "epdm",
+    "rating": "conditional",
+    "phase": "gas",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatibilidad condicionada. Se requiere revisar composición, temperatura, presión, permeación y configuración completa del ensamblaje.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "co2",
+    "materialId": "silicone",
+    "rating": "conditional",
+    "phase": "gas",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatibilidad condicionada. Se requiere revisar composición, temperatura, presión, permeación y configuración completa del ensamblaje.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "chlorine_dry",
+    "materialId": "ptfe",
+    "rating": "compatible",
+    "phase": "gas",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatible como criterio preliminar de resistencia química del material del ánima. Validar temperatura, presión, permeación, limpieza y conexiones finales. La condición seca debe demostrarse. La entrada de humedad puede cambiar radicalmente la corrosividad y anular esta clasificación.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "chlorine_dry",
+    "materialId": "filled_ptfe",
+    "rating": "conditional",
+    "phase": "gas",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatibilidad condicionada. Se requiere revisar composición, temperatura, presión, permeación y configuración completa del ensamblaje. La condición seca debe demostrarse. La entrada de humedad puede cambiar radicalmente la corrosividad y anular esta clasificación.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "chlorine_dry",
+    "materialId": "ss304",
+    "rating": "conditional",
+    "phase": "gas",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatibilidad condicionada. Se requiere revisar composición, temperatura, presión, permeación y configuración completa del ensamblaje. La condición seca debe demostrarse. La entrada de humedad puede cambiar radicalmente la corrosividad y anular esta clasificación.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "chlorine_dry",
+    "materialId": "ss316l",
+    "rating": "conditional",
+    "phase": "gas",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatibilidad condicionada. Se requiere revisar composición, temperatura, presión, permeación y configuración completa del ensamblaje. La condición seca debe demostrarse. La entrada de humedad puede cambiar radicalmente la corrosividad y anular esta clasificación.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "chlorine_dry",
+    "materialId": "nylon",
+    "rating": "not_recommended",
+    "phase": "gas",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "No recomendado como selección preliminar para contacto continuo con este fluido; consultar una alternativa y confirmar con ingeniería de materiales. La condición seca debe demostrarse. La entrada de humedad puede cambiar radicalmente la corrosividad y anular esta clasificación.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "chlorine_dry",
+    "materialId": "polyethylene",
+    "rating": "not_recommended",
+    "phase": "gas",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "No recomendado como selección preliminar para contacto continuo con este fluido; consultar una alternativa y confirmar con ingeniería de materiales. La condición seca debe demostrarse. La entrada de humedad puede cambiar radicalmente la corrosividad y anular esta clasificación.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "chlorine_dry",
+    "materialId": "buna_n",
+    "rating": "not_recommended",
+    "phase": "gas",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "No recomendado como selección preliminar para contacto continuo con este fluido; consultar una alternativa y confirmar con ingeniería de materiales. La condición seca debe demostrarse. La entrada de humedad puede cambiar radicalmente la corrosividad y anular esta clasificación.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "chlorine_dry",
+    "materialId": "epdm",
+    "rating": "not_recommended",
+    "phase": "gas",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "No recomendado como selección preliminar para contacto continuo con este fluido; consultar una alternativa y confirmar con ingeniería de materiales. La condición seca debe demostrarse. La entrada de humedad puede cambiar radicalmente la corrosividad y anular esta clasificación.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "chlorine_dry",
+    "materialId": "silicone",
+    "rating": "not_recommended",
+    "phase": "gas",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "No recomendado como selección preliminar para contacto continuo con este fluido; consultar una alternativa y confirmar con ingeniería de materiales. La condición seca debe demostrarse. La entrada de humedad puede cambiar radicalmente la corrosividad y anular esta clasificación.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "chlorine_wet",
+    "materialId": "ptfe",
+    "rating": "compatible",
+    "phase": "gas",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatible como criterio preliminar de resistencia química del material del ánima. Validar temperatura, presión, permeación, limpieza y conexiones finales. Cloro húmedo es altamente corrosivo. La clasificación se limita al material del ánima y exige revisión especializada del sistema completo.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "chlorine_wet",
+    "materialId": "filled_ptfe",
+    "rating": "conditional",
+    "phase": "gas",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatibilidad condicionada. Se requiere revisar composición, temperatura, presión, permeación y configuración completa del ensamblaje. Cloro húmedo es altamente corrosivo. La clasificación se limita al material del ánima y exige revisión especializada del sistema completo.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "chlorine_wet",
+    "materialId": "ss304",
+    "rating": "not_recommended",
+    "phase": "gas",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "No recomendado como selección preliminar para contacto continuo con este fluido; consultar una alternativa y confirmar con ingeniería de materiales. No aprobar acero inoxidable 304 para cloro húmedo sin una evaluación específica; la humedad puede producir ataque corrosivo severo.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "chlorine_wet",
+    "materialId": "ss316l",
+    "rating": "not_recommended",
+    "phase": "gas",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "No recomendado como selección preliminar para contacto continuo con este fluido; consultar una alternativa y confirmar con ingeniería de materiales. No aprobar acero inoxidable 316L para cloro húmedo sin una evaluación específica; la humedad puede producir ataque corrosivo severo.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "chlorine_wet",
+    "materialId": "nylon",
+    "rating": "not_recommended",
+    "phase": "gas",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "No recomendado como selección preliminar para contacto continuo con este fluido; consultar una alternativa y confirmar con ingeniería de materiales. Cloro húmedo es altamente corrosivo. La clasificación se limita al material del ánima y exige revisión especializada del sistema completo.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "chlorine_wet",
+    "materialId": "polyethylene",
+    "rating": "not_recommended",
+    "phase": "gas",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "No recomendado como selección preliminar para contacto continuo con este fluido; consultar una alternativa y confirmar con ingeniería de materiales. Cloro húmedo es altamente corrosivo. La clasificación se limita al material del ánima y exige revisión especializada del sistema completo.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "chlorine_wet",
+    "materialId": "buna_n",
+    "rating": "not_recommended",
+    "phase": "gas",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "No recomendado como selección preliminar para contacto continuo con este fluido; consultar una alternativa y confirmar con ingeniería de materiales. Cloro húmedo es altamente corrosivo. La clasificación se limita al material del ánima y exige revisión especializada del sistema completo.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "chlorine_wet",
+    "materialId": "epdm",
+    "rating": "not_recommended",
+    "phase": "gas",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "No recomendado como selección preliminar para contacto continuo con este fluido; consultar una alternativa y confirmar con ingeniería de materiales. Cloro húmedo es altamente corrosivo. La clasificación se limita al material del ánima y exige revisión especializada del sistema completo.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "chlorine_wet",
+    "materialId": "silicone",
+    "rating": "not_recommended",
+    "phase": "gas",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "No recomendado como selección preliminar para contacto continuo con este fluido; consultar una alternativa y confirmar con ingeniería de materiales. Cloro húmedo es altamente corrosivo. La clasificación se limita al material del ánima y exige revisión especializada del sistema completo.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "hydrochloric_acid",
+    "materialId": "ptfe",
+    "rating": "compatible",
+    "phase": "liquid",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatible como criterio preliminar de resistencia química del material del ánima. Validar temperatura, presión, permeación, limpieza y conexiones finales. El resultado depende fuertemente de concentración, temperatura, aireación y contaminantes. Ingresar la concentración y confirmar con una tabla aprobada.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "hydrochloric_acid",
+    "materialId": "filled_ptfe",
+    "rating": "compatible",
+    "phase": "liquid",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatible como criterio preliminar de resistencia química del material del ánima. Validar temperatura, presión, permeación, limpieza y conexiones finales. El resultado depende fuertemente de concentración, temperatura, aireación y contaminantes. Ingresar la concentración y confirmar con una tabla aprobada.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "hydrochloric_acid",
+    "materialId": "ss304",
+    "rating": "not_recommended",
+    "phase": "liquid",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "No recomendado como selección preliminar para contacto continuo con este fluido; consultar una alternativa y confirmar con ingeniería de materiales. El 304 no se recomienda de forma general para ácido clorhídrico.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "hydrochloric_acid",
+    "materialId": "ss316l",
+    "rating": "not_recommended",
+    "phase": "liquid",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "No recomendado como selección preliminar para contacto continuo con este fluido; consultar una alternativa y confirmar con ingeniería de materiales. El 316L no se recomienda de forma general para ácido clorhídrico; puede sufrir corrosión rápida incluso a concentraciones moderadas.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "hydrochloric_acid",
+    "materialId": "nylon",
+    "rating": "not_recommended",
+    "phase": "liquid",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "No recomendado como selección preliminar para contacto continuo con este fluido; consultar una alternativa y confirmar con ingeniería de materiales. El resultado depende fuertemente de concentración, temperatura, aireación y contaminantes. Ingresar la concentración y confirmar con una tabla aprobada.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "hydrochloric_acid",
+    "materialId": "polyethylene",
+    "rating": "conditional",
+    "phase": "liquid",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatibilidad condicionada. Se requiere revisar composición, temperatura, presión, permeación y configuración completa del ensamblaje. El resultado depende fuertemente de concentración, temperatura, aireación y contaminantes. Ingresar la concentración y confirmar con una tabla aprobada.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "hydrochloric_acid",
+    "materialId": "buna_n",
+    "rating": "conditional",
+    "phase": "liquid",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatibilidad condicionada. Se requiere revisar composición, temperatura, presión, permeación y configuración completa del ensamblaje. El resultado depende fuertemente de concentración, temperatura, aireación y contaminantes. Ingresar la concentración y confirmar con una tabla aprobada.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "hydrochloric_acid",
+    "materialId": "epdm",
+    "rating": "compatible",
+    "phase": "liquid",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatible como criterio preliminar de resistencia química del material del ánima. Validar temperatura, presión, permeación, limpieza y conexiones finales. El resultado depende fuertemente de concentración, temperatura, aireación y contaminantes. Ingresar la concentración y confirmar con una tabla aprobada.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "hydrochloric_acid",
+    "materialId": "silicone",
+    "rating": "not_recommended",
+    "phase": "liquid",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "No recomendado como selección preliminar para contacto continuo con este fluido; consultar una alternativa y confirmar con ingeniería de materiales. El resultado depende fuertemente de concentración, temperatura, aireación y contaminantes. Ingresar la concentración y confirmar con una tabla aprobada.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "sulfuric_acid",
+    "materialId": "ptfe",
+    "rating": "compatible",
+    "phase": "liquid",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatible como criterio preliminar de resistencia química del material del ánima. Validar temperatura, presión, permeación, limpieza y conexiones finales. El comportamiento cambia de forma no lineal con concentración y temperatura. Esta regla es solo de cribado preliminar.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "sulfuric_acid",
+    "materialId": "filled_ptfe",
+    "rating": "compatible",
+    "phase": "liquid",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatible como criterio preliminar de resistencia química del material del ánima. Validar temperatura, presión, permeación, limpieza y conexiones finales. El comportamiento cambia de forma no lineal con concentración y temperatura. Esta regla es solo de cribado preliminar.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "sulfuric_acid",
+    "materialId": "ss304",
+    "rating": "conditional",
+    "phase": "liquid",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatibilidad condicionada. Se requiere revisar composición, temperatura, presión, permeación y configuración completa del ensamblaje. El comportamiento cambia de forma no lineal con concentración y temperatura. Esta regla es solo de cribado preliminar.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "sulfuric_acid",
+    "materialId": "ss316l",
+    "rating": "conditional",
+    "phase": "liquid",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatibilidad condicionada. Se requiere revisar composición, temperatura, presión, permeación y configuración completa del ensamblaje. El comportamiento cambia de forma no lineal con concentración y temperatura. Esta regla es solo de cribado preliminar.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "sulfuric_acid",
+    "materialId": "nylon",
+    "rating": "not_recommended",
+    "phase": "liquid",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "No recomendado como selección preliminar para contacto continuo con este fluido; consultar una alternativa y confirmar con ingeniería de materiales. El comportamiento cambia de forma no lineal con concentración y temperatura. Esta regla es solo de cribado preliminar.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "sulfuric_acid",
+    "materialId": "polyethylene",
+    "rating": "conditional",
+    "phase": "liquid",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatibilidad condicionada. Se requiere revisar composición, temperatura, presión, permeación y configuración completa del ensamblaje. El comportamiento cambia de forma no lineal con concentración y temperatura. Esta regla es solo de cribado preliminar.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "sulfuric_acid",
+    "materialId": "buna_n",
+    "rating": "not_recommended",
+    "phase": "liquid",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "No recomendado como selección preliminar para contacto continuo con este fluido; consultar una alternativa y confirmar con ingeniería de materiales. El comportamiento cambia de forma no lineal con concentración y temperatura. Esta regla es solo de cribado preliminar.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "sulfuric_acid",
+    "materialId": "epdm",
+    "rating": "conditional",
+    "phase": "liquid",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatibilidad condicionada. Se requiere revisar composición, temperatura, presión, permeación y configuración completa del ensamblaje. El comportamiento cambia de forma no lineal con concentración y temperatura. Esta regla es solo de cribado preliminar.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "sulfuric_acid",
+    "materialId": "silicone",
+    "rating": "conditional",
+    "phase": "liquid",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatibilidad condicionada. Se requiere revisar composición, temperatura, presión, permeación y configuración completa del ensamblaje. El comportamiento cambia de forma no lineal con concentración y temperatura. Esta regla es solo de cribado preliminar.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "sodium_hydroxide",
+    "materialId": "ptfe",
+    "rating": "compatible",
+    "phase": "liquid",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatible como criterio preliminar de resistencia química del material del ánima. Validar temperatura, presión, permeación, limpieza y conexiones finales. La concentración y temperatura controlan la compatibilidad, especialmente para metales y polímeros.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "sodium_hydroxide",
+    "materialId": "filled_ptfe",
+    "rating": "compatible",
+    "phase": "liquid",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatible como criterio preliminar de resistencia química del material del ánima. Validar temperatura, presión, permeación, limpieza y conexiones finales. La concentración y temperatura controlan la compatibilidad, especialmente para metales y polímeros.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "sodium_hydroxide",
+    "materialId": "ss304",
+    "rating": "conditional",
+    "phase": "liquid",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatibilidad condicionada. Se requiere revisar composición, temperatura, presión, permeación y configuración completa del ensamblaje. La concentración y temperatura controlan la compatibilidad, especialmente para metales y polímeros.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "sodium_hydroxide",
+    "materialId": "ss316l",
+    "rating": "compatible",
+    "phase": "liquid",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatible como criterio preliminar de resistencia química del material del ánima. Validar temperatura, presión, permeación, limpieza y conexiones finales. La concentración y temperatura controlan la compatibilidad, especialmente para metales y polímeros.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "sodium_hydroxide",
+    "materialId": "nylon",
+    "rating": "conditional",
+    "phase": "liquid",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatibilidad condicionada. Se requiere revisar composición, temperatura, presión, permeación y configuración completa del ensamblaje. La concentración y temperatura controlan la compatibilidad, especialmente para metales y polímeros.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "sodium_hydroxide",
+    "materialId": "polyethylene",
+    "rating": "compatible",
+    "phase": "liquid",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatible como criterio preliminar de resistencia química del material del ánima. Validar temperatura, presión, permeación, limpieza y conexiones finales. La concentración y temperatura controlan la compatibilidad, especialmente para metales y polímeros.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "sodium_hydroxide",
+    "materialId": "buna_n",
+    "rating": "compatible",
+    "phase": "liquid",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatible como criterio preliminar de resistencia química del material del ánima. Validar temperatura, presión, permeación, limpieza y conexiones finales. La concentración y temperatura controlan la compatibilidad, especialmente para metales y polímeros.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "sodium_hydroxide",
+    "materialId": "epdm",
+    "rating": "compatible",
+    "phase": "liquid",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatible como criterio preliminar de resistencia química del material del ánima. Validar temperatura, presión, permeación, limpieza y conexiones finales. La concentración y temperatura controlan la compatibilidad, especialmente para metales y polímeros.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "sodium_hydroxide",
+    "materialId": "silicone",
+    "rating": "conditional",
+    "phase": "liquid",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatibilidad condicionada. Se requiere revisar composición, temperatura, presión, permeación y configuración completa del ensamblaje. La concentración y temperatura controlan la compatibilidad, especialmente para metales y polímeros.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "ammonia",
+    "materialId": "ptfe",
+    "rating": "compatible",
+    "phase": "variable",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatible como criterio preliminar de resistencia química del material del ánima. Validar temperatura, presión, permeación, limpieza y conexiones finales. Distinguir amoniaco anhidro, vapor y solución acuosa. La fase, concentración y temperatura son indispensables para la selección final.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "ammonia",
+    "materialId": "filled_ptfe",
+    "rating": "compatible",
+    "phase": "variable",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatible como criterio preliminar de resistencia química del material del ánima. Validar temperatura, presión, permeación, limpieza y conexiones finales. Distinguir amoniaco anhidro, vapor y solución acuosa. La fase, concentración y temperatura son indispensables para la selección final.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "ammonia",
+    "materialId": "ss304",
+    "rating": "compatible",
+    "phase": "variable",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatible como criterio preliminar de resistencia química del material del ánima. Validar temperatura, presión, permeación, limpieza y conexiones finales. Distinguir amoniaco anhidro, vapor y solución acuosa. La fase, concentración y temperatura son indispensables para la selección final.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "ammonia",
+    "materialId": "ss316l",
+    "rating": "compatible",
+    "phase": "variable",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatible como criterio preliminar de resistencia química del material del ánima. Validar temperatura, presión, permeación, limpieza y conexiones finales. Distinguir amoniaco anhidro, vapor y solución acuosa. La fase, concentración y temperatura son indispensables para la selección final.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "ammonia",
+    "materialId": "nylon",
+    "rating": "compatible",
+    "phase": "variable",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatible como criterio preliminar de resistencia química del material del ánima. Validar temperatura, presión, permeación, limpieza y conexiones finales. Distinguir amoniaco anhidro, vapor y solución acuosa. La fase, concentración y temperatura son indispensables para la selección final.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "ammonia",
+    "materialId": "polyethylene",
+    "rating": "compatible",
+    "phase": "variable",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatible como criterio preliminar de resistencia química del material del ánima. Validar temperatura, presión, permeación, limpieza y conexiones finales. Distinguir amoniaco anhidro, vapor y solución acuosa. La fase, concentración y temperatura son indispensables para la selección final.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "ammonia",
+    "materialId": "buna_n",
+    "rating": "conditional",
+    "phase": "variable",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatibilidad condicionada. Se requiere revisar composición, temperatura, presión, permeación y configuración completa del ensamblaje. Distinguir amoniaco anhidro, vapor y solución acuosa. La fase, concentración y temperatura son indispensables para la selección final.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "ammonia",
+    "materialId": "epdm",
+    "rating": "compatible",
+    "phase": "variable",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatible como criterio preliminar de resistencia química del material del ánima. Validar temperatura, presión, permeación, limpieza y conexiones finales. Distinguir amoniaco anhidro, vapor y solución acuosa. La fase, concentración y temperatura son indispensables para la selección final.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "ammonia",
+    "materialId": "silicone",
+    "rating": "not_recommended",
+    "phase": "variable",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "No recomendado como selección preliminar para contacto continuo con este fluido; consultar una alternativa y confirmar con ingeniería de materiales. Distinguir amoniaco anhidro, vapor y solución acuosa. La fase, concentración y temperatura son indispensables para la selección final.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "h2s",
+    "materialId": "ptfe",
+    "rating": "compatible",
+    "phase": "gas",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatible como criterio preliminar de resistencia química del material del ánima. Validar temperatura, presión, permeación, limpieza y conexiones finales. Servicio con H2S: evaluar humedad, presión parcial, temperatura y requisitos de servicio ácido aplicables; la compatibilidad química no reemplaza la evaluación metalúrgica.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "h2s",
+    "materialId": "filled_ptfe",
+    "rating": "compatible",
+    "phase": "gas",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatible como criterio preliminar de resistencia química del material del ánima. Validar temperatura, presión, permeación, limpieza y conexiones finales. Servicio con H2S: evaluar humedad, presión parcial, temperatura y requisitos de servicio ácido aplicables; la compatibilidad química no reemplaza la evaluación metalúrgica.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "h2s",
+    "materialId": "ss304",
+    "rating": "conditional",
+    "phase": "gas",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatibilidad condicionada. Se requiere revisar composición, temperatura, presión, permeación y configuración completa del ensamblaje. Servicio con H2S: evaluar humedad, presión parcial, temperatura y requisitos de servicio ácido aplicables; la compatibilidad química no reemplaza la evaluación metalúrgica.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "h2s",
+    "materialId": "ss316l",
+    "rating": "conditional",
+    "phase": "gas",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatibilidad condicionada. Se requiere revisar composición, temperatura, presión, permeación y configuración completa del ensamblaje. Servicio con H2S: evaluar humedad, presión parcial, temperatura y requisitos de servicio ácido aplicables; la compatibilidad química no reemplaza la evaluación metalúrgica.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "h2s",
+    "materialId": "nylon",
+    "rating": "conditional",
+    "phase": "gas",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatibilidad condicionada. Se requiere revisar composición, temperatura, presión, permeación y configuración completa del ensamblaje. Servicio con H2S: evaluar humedad, presión parcial, temperatura y requisitos de servicio ácido aplicables; la compatibilidad química no reemplaza la evaluación metalúrgica.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "h2s",
+    "materialId": "polyethylene",
+    "rating": "conditional",
+    "phase": "gas",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatibilidad condicionada. Se requiere revisar composición, temperatura, presión, permeación y configuración completa del ensamblaje. Servicio con H2S: evaluar humedad, presión parcial, temperatura y requisitos de servicio ácido aplicables; la compatibilidad química no reemplaza la evaluación metalúrgica.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "h2s",
+    "materialId": "buna_n",
+    "rating": "conditional",
+    "phase": "gas",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatibilidad condicionada. Se requiere revisar composición, temperatura, presión, permeación y configuración completa del ensamblaje. Servicio con H2S: evaluar humedad, presión parcial, temperatura y requisitos de servicio ácido aplicables; la compatibilidad química no reemplaza la evaluación metalúrgica.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "h2s",
+    "materialId": "epdm",
+    "rating": "conditional",
+    "phase": "gas",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatibilidad condicionada. Se requiere revisar composición, temperatura, presión, permeación y configuración completa del ensamblaje. Servicio con H2S: evaluar humedad, presión parcial, temperatura y requisitos de servicio ácido aplicables; la compatibilidad química no reemplaza la evaluación metalúrgica.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "h2s",
+    "materialId": "silicone",
+    "rating": "not_recommended",
+    "phase": "gas",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "No recomendado como selección preliminar para contacto continuo con este fluido; consultar una alternativa y confirmar con ingeniería de materiales. Servicio con H2S: evaluar humedad, presión parcial, temperatura y requisitos de servicio ácido aplicables; la compatibilidad química no reemplaza la evaluación metalúrgica.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "methanol",
+    "materialId": "ptfe",
+    "rating": "compatible",
+    "phase": "liquid",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatible como criterio preliminar de resistencia química del material del ánima. Validar temperatura, presión, permeación, limpieza y conexiones finales.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "methanol",
+    "materialId": "filled_ptfe",
+    "rating": "compatible",
+    "phase": "liquid",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatible como criterio preliminar de resistencia química del material del ánima. Validar temperatura, presión, permeación, limpieza y conexiones finales.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "methanol",
+    "materialId": "ss304",
+    "rating": "compatible",
+    "phase": "liquid",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatible como criterio preliminar de resistencia química del material del ánima. Validar temperatura, presión, permeación, limpieza y conexiones finales.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "methanol",
+    "materialId": "ss316l",
+    "rating": "compatible",
+    "phase": "liquid",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatible como criterio preliminar de resistencia química del material del ánima. Validar temperatura, presión, permeación, limpieza y conexiones finales.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "methanol",
+    "materialId": "nylon",
+    "rating": "compatible",
+    "phase": "liquid",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatible como criterio preliminar de resistencia química del material del ánima. Validar temperatura, presión, permeación, limpieza y conexiones finales.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "methanol",
+    "materialId": "polyethylene",
+    "rating": "compatible",
+    "phase": "liquid",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatible como criterio preliminar de resistencia química del material del ánima. Validar temperatura, presión, permeación, limpieza y conexiones finales.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "methanol",
+    "materialId": "buna_n",
+    "rating": "conditional",
+    "phase": "liquid",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatibilidad condicionada. Se requiere revisar composición, temperatura, presión, permeación y configuración completa del ensamblaje.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "methanol",
+    "materialId": "epdm",
+    "rating": "compatible",
+    "phase": "liquid",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatible como criterio preliminar de resistencia química del material del ánima. Validar temperatura, presión, permeación, limpieza y conexiones finales.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "methanol",
+    "materialId": "silicone",
+    "rating": "conditional",
+    "phase": "liquid",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatibilidad condicionada. Se requiere revisar composición, temperatura, presión, permeación y configuración completa del ensamblaje.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "ethanol",
+    "materialId": "ptfe",
+    "rating": "compatible",
+    "phase": "liquid",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatible como criterio preliminar de resistencia química del material del ánima. Validar temperatura, presión, permeación, limpieza y conexiones finales.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "ethanol",
+    "materialId": "filled_ptfe",
+    "rating": "compatible",
+    "phase": "liquid",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatible como criterio preliminar de resistencia química del material del ánima. Validar temperatura, presión, permeación, limpieza y conexiones finales.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "ethanol",
+    "materialId": "ss304",
+    "rating": "compatible",
+    "phase": "liquid",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatible como criterio preliminar de resistencia química del material del ánima. Validar temperatura, presión, permeación, limpieza y conexiones finales.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "ethanol",
+    "materialId": "ss316l",
+    "rating": "compatible",
+    "phase": "liquid",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatible como criterio preliminar de resistencia química del material del ánima. Validar temperatura, presión, permeación, limpieza y conexiones finales.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "ethanol",
+    "materialId": "nylon",
+    "rating": "compatible",
+    "phase": "liquid",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatible como criterio preliminar de resistencia química del material del ánima. Validar temperatura, presión, permeación, limpieza y conexiones finales.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "ethanol",
+    "materialId": "polyethylene",
+    "rating": "compatible",
+    "phase": "liquid",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatible como criterio preliminar de resistencia química del material del ánima. Validar temperatura, presión, permeación, limpieza y conexiones finales.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "ethanol",
+    "materialId": "buna_n",
+    "rating": "conditional",
+    "phase": "liquid",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatibilidad condicionada. Se requiere revisar composición, temperatura, presión, permeación y configuración completa del ensamblaje.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "ethanol",
+    "materialId": "epdm",
+    "rating": "compatible",
+    "phase": "liquid",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatible como criterio preliminar de resistencia química del material del ánima. Validar temperatura, presión, permeación, limpieza y conexiones finales.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "ethanol",
+    "materialId": "silicone",
+    "rating": "conditional",
+    "phase": "liquid",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatibilidad condicionada. Se requiere revisar composición, temperatura, presión, permeación y configuración completa del ensamblaje.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "hydraulic_oil",
+    "materialId": "ptfe",
+    "rating": "compatible",
+    "phase": "liquid",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatible como criterio preliminar de resistencia química del material del ánima. Validar temperatura, presión, permeación, limpieza y conexiones finales.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "hydraulic_oil",
+    "materialId": "filled_ptfe",
+    "rating": "compatible",
+    "phase": "liquid",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatible como criterio preliminar de resistencia química del material del ánima. Validar temperatura, presión, permeación, limpieza y conexiones finales.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "hydraulic_oil",
+    "materialId": "ss304",
+    "rating": "compatible",
+    "phase": "liquid",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatible como criterio preliminar de resistencia química del material del ánima. Validar temperatura, presión, permeación, limpieza y conexiones finales.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "hydraulic_oil",
+    "materialId": "ss316l",
+    "rating": "compatible",
+    "phase": "liquid",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatible como criterio preliminar de resistencia química del material del ánima. Validar temperatura, presión, permeación, limpieza y conexiones finales.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "hydraulic_oil",
+    "materialId": "nylon",
+    "rating": "compatible",
+    "phase": "liquid",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatible como criterio preliminar de resistencia química del material del ánima. Validar temperatura, presión, permeación, limpieza y conexiones finales.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "hydraulic_oil",
+    "materialId": "polyethylene",
+    "rating": "conditional",
+    "phase": "liquid",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatibilidad condicionada. Se requiere revisar composición, temperatura, presión, permeación y configuración completa del ensamblaje.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "hydraulic_oil",
+    "materialId": "buna_n",
+    "rating": "compatible",
+    "phase": "liquid",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatible como criterio preliminar de resistencia química del material del ánima. Validar temperatura, presión, permeación, limpieza y conexiones finales. Buna N es una opción habitual para aceites minerales, sujeto a temperatura y formulación del fluido.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "hydraulic_oil",
+    "materialId": "epdm",
+    "rating": "not_recommended",
+    "phase": "liquid",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "No recomendado como selección preliminar para contacto continuo con este fluido; consultar una alternativa y confirmar con ingeniería de materiales. EPDM no se recomienda normalmente con aceites minerales y fluidos hidráulicos basados en petróleo.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  },
+  {
+    "fluidId": "hydraulic_oil",
+    "materialId": "silicone",
+    "rating": "conditional",
+    "phase": "liquid",
+    "concentrationMinPercent": null,
+    "concentrationMaxPercent": null,
+    "temperatureMinC": null,
+    "temperatureMaxC": null,
+    "confidence": "engineering_screening",
+    "notes": "Compatibilidad condicionada. Se requiere revisar composición, temperatura, presión, permeación y configuración completa del ensamblaje.",
+    "sourceId": "screening-matrix-v2",
+    "references": [
+      "Swagelok MS-01-180",
+      "Swagelok hose safety guidance",
+      "Manufacturer chemical-resistance screening guides"
+    ],
+    "screeningOnly": true
+  }
+]

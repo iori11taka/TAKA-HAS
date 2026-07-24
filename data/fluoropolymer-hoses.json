@@ -1,0 +1,988 @@
+[
+  {
+    "series": "T",
+    "name": "Manguera de PTFE serie T",
+    "family": "Manguera de fluoropolímero",
+    "constructionType": "ptfe",
+    "constructionGroup": "fluoropolymer",
+    "description": "Manguera de PTFE resistente a la permeabilidad, utilizada normalmente en aplicaciones que requieren compatibilidad química y resistencia a la permeación.",
+    "coreMaterial": "Ánima lisa de PTFE",
+    "reinforcement": "Malla exterior de una capa de acero inoxidable 304",
+    "coverMaterial": null,
+    "electricalProperty": "Disponible con ánima de PTFE relleno de carbono negro para disipación estática",
+    "temperatureMinC": -53,
+    "temperatureMaxC": 230,
+    "basePressureTemperatureMaxC": 20,
+    "pressureReference": "Presión publicada a 20 °C; dispone de tabla presión-temperatura",
+    "dynamicPerformance": "medio",
+    "vibrationSuitability": "medium",
+    "bendRadiusMeasurement": "inside",
+    "lowPermeationSuitable": true,
+    "chemicalCompatibilityLevel": "high",
+    "vacuumSuitable": true,
+    "sizes": [
+      {
+        "nominalSize": "1/4",
+        "insideDiameterMm": 4.8,
+        "outsideDiameterMm": 7.9,
+        "staticBendRadiusMm": 38.1,
+        "dynamicBendRadiusMm": 50.8,
+        "workingPressureBar": 206,
+        "burstPressureBar": 826,
+        "pressureTemperatureTable": [
+          {
+            "temperatureC": -53,
+            "workingPressureBar": 155
+          },
+          {
+            "temperatureC": -17,
+            "workingPressureBar": 206
+          },
+          {
+            "temperatureC": 37,
+            "workingPressureBar": 206
+          },
+          {
+            "temperatureC": 93,
+            "workingPressureBar": 115
+          },
+          {
+            "temperatureC": 148,
+            "workingPressureBar": 115
+          },
+          {
+            "temperatureC": 230,
+            "workingPressureBar": 115
+          }
+        ]
+      },
+      {
+        "nominalSize": "3/8",
+        "insideDiameterMm": 7.9,
+        "outsideDiameterMm": 11.1,
+        "staticBendRadiusMm": 88.9,
+        "dynamicBendRadiusMm": 127,
+        "workingPressureBar": 172,
+        "burstPressureBar": 689,
+        "pressureTemperatureTable": [
+          {
+            "temperatureC": -53,
+            "workingPressureBar": 155
+          },
+          {
+            "temperatureC": -17,
+            "workingPressureBar": 172
+          },
+          {
+            "temperatureC": 37,
+            "workingPressureBar": 172
+          },
+          {
+            "temperatureC": 93,
+            "workingPressureBar": 129
+          },
+          {
+            "temperatureC": 148,
+            "workingPressureBar": 129
+          },
+          {
+            "temperatureC": 230,
+            "workingPressureBar": 129
+          }
+        ]
+      },
+      {
+        "nominalSize": "1/2",
+        "insideDiameterMm": 10.3,
+        "outsideDiameterMm": 14.3,
+        "staticBendRadiusMm": 114,
+        "dynamicBendRadiusMm": 152,
+        "workingPressureBar": 137,
+        "burstPressureBar": 551,
+        "pressureTemperatureTable": [
+          {
+            "temperatureC": -53,
+            "workingPressureBar": 137
+          },
+          {
+            "temperatureC": -17,
+            "workingPressureBar": 137
+          },
+          {
+            "temperatureC": 37,
+            "workingPressureBar": 137
+          },
+          {
+            "temperatureC": 93,
+            "workingPressureBar": 103
+          },
+          {
+            "temperatureC": 148,
+            "workingPressureBar": 103
+          },
+          {
+            "temperatureC": 230,
+            "workingPressureBar": 103
+          }
+        ]
+      },
+      {
+        "nominalSize": "3/4",
+        "insideDiameterMm": 15.9,
+        "outsideDiameterMm": 20.6,
+        "staticBendRadiusMm": 152,
+        "dynamicBendRadiusMm": 190,
+        "workingPressureBar": 103,
+        "burstPressureBar": 413,
+        "pressureTemperatureTable": [
+          {
+            "temperatureC": -53,
+            "workingPressureBar": 103
+          },
+          {
+            "temperatureC": -17,
+            "workingPressureBar": 103
+          },
+          {
+            "temperatureC": 37,
+            "workingPressureBar": 103
+          },
+          {
+            "temperatureC": 93,
+            "workingPressureBar": 77.6
+          },
+          {
+            "temperatureC": 148,
+            "workingPressureBar": 77.6
+          },
+          {
+            "temperatureC": 230,
+            "workingPressureBar": 77.6
+          }
+        ]
+      },
+      {
+        "nominalSize": "1",
+        "insideDiameterMm": 22.2,
+        "outsideDiameterMm": 26.2,
+        "staticBendRadiusMm": 229,
+        "dynamicBendRadiusMm": 287,
+        "workingPressureBar": 68.9,
+        "burstPressureBar": 275,
+        "pressureTemperatureTable": [
+          {
+            "temperatureC": -53,
+            "workingPressureBar": 68.9
+          },
+          {
+            "temperatureC": -17,
+            "workingPressureBar": 68.9
+          },
+          {
+            "temperatureC": 37,
+            "workingPressureBar": 68.9
+          },
+          {
+            "temperatureC": 93,
+            "workingPressureBar": 51.7
+          },
+          {
+            "temperatureC": 148,
+            "workingPressureBar": 51.7
+          },
+          {
+            "temperatureC": 230,
+            "workingPressureBar": 51.7
+          }
+        ]
+      }
+    ],
+    "warnings": [
+      "La presión admisible debe corregirse mediante la tabla presión-temperatura.",
+      "Las conexiones finales pueden limitar la presión y la temperatura del ensamblaje.",
+      "Debe verificarse la compatibilidad química exacta del fluido con todos los materiales húmedos."
+    ],
+    "corePolymer": "PTFE",
+    "pressureTemperatureSource": "Swagelok MS-01-180, página 49",
+    "pressureTemperatureMethod": "conservative_bracketing_minimum"
+  },
+  {
+    "series": "B",
+    "name": "Manguera de PTFE serie B",
+    "family": "Manguera de fluoropolímero",
+    "constructionType": "ptfe",
+    "constructionGroup": "fluoropolymer",
+    "description": "Manguera de PTFE para servicio general y aplicaciones que requieren compatibilidad química.",
+    "coreMaterial": "Ánima lisa de PTFE",
+    "reinforcement": "Malla exterior de acero inoxidable 304",
+    "coverMaterial": null,
+    "electricalProperty": "Consultar las propiedades eléctricas de la configuración",
+    "temperatureMinC": -53,
+    "temperatureMaxC": 230,
+    "basePressureTemperatureMaxC": 230,
+    "pressureReference": "Presión publicada para el rango de -53 a 230 °C",
+    "dynamicPerformance": "medio",
+    "vibrationSuitability": "medium",
+    "bendRadiusMeasurement": "inside",
+    "lowPermeationSuitable": null,
+    "chemicalCompatibilityLevel": "high",
+    "vacuumSuitable": true,
+    "sizes": [
+      {
+        "nominalSize": "1/8",
+        "insideDiameterMm": 3.2,
+        "outsideDiameterMm": 6.4,
+        "staticBendRadiusMm": 38.1,
+        "dynamicBendRadiusMm": 95.2,
+        "workingPressureBar": 206,
+        "burstPressureBar": 826
+      }
+    ],
+    "warnings": [
+      "Solo está disponible en tamaño nominal de 1/8 pulg.",
+      "Las conexiones finales pueden limitar la presión y la temperatura del ensamblaje."
+    ],
+    "corePolymer": "PTFE"
+  },
+  {
+    "series": "X",
+    "name": "Manguera de PTFE serie X",
+    "family": "Manguera de fluoropolímero",
+    "constructionType": "ptfe",
+    "constructionGroup": "fluoropolymer",
+    "description": "Manguera de PTFE altamente flexible, con refuerzo de fibra unido al ánima para aumentar la resistencia al retorcimiento.",
+    "coreMaterial": "Ánima lisa de PTFE",
+    "reinforcement": "Malla de fibra y malla exterior de acero inoxidable 304",
+    "coverMaterial": null,
+    "electricalProperty": "Disponible con ánima de PTFE relleno de carbono negro para disipación estática",
+    "temperatureMinC": -73,
+    "temperatureMaxC": 230,
+    "basePressureTemperatureMaxC": 20,
+    "pressureReference": "Presión publicada a 20 °C; dispone de tabla presión-temperatura. El rango mínimo de temperatura depende del tamaño.",
+    "dynamicPerformance": "alto",
+    "vibrationSuitability": "high",
+    "bendRadiusMeasurement": "inside",
+    "lowPermeationSuitable": null,
+    "chemicalCompatibilityLevel": "high",
+    "vacuumSuitable": true,
+    "sizes": [
+      {
+        "nominalSize": "1/4",
+        "insideDiameterMm": 6.4,
+        "outsideDiameterMm": 11.7,
+        "staticBendRadiusMm": 31.8,
+        "dynamicBendRadiusMm": 107,
+        "workingPressureBar": 241,
+        "burstPressureBar": 964,
+        "temperatureMinC": -53,
+        "temperatureMaxC": 230,
+        "vacuumMaxTemperatureC": 230
+      },
+      {
+        "nominalSize": "3/8",
+        "insideDiameterMm": 9.6,
+        "outsideDiameterMm": 14.5,
+        "staticBendRadiusMm": 44.4,
+        "dynamicBendRadiusMm": 112,
+        "workingPressureBar": 206,
+        "burstPressureBar": 826,
+        "temperatureMinC": -53,
+        "temperatureMaxC": 230,
+        "vacuumMaxTemperatureC": 230
+      },
+      {
+        "nominalSize": "1/2",
+        "insideDiameterMm": 12.7,
+        "outsideDiameterMm": 19.3,
+        "staticBendRadiusMm": 63.5,
+        "dynamicBendRadiusMm": 116,
+        "workingPressureBar": 124,
+        "burstPressureBar": 496,
+        "temperatureMinC": -73,
+        "temperatureMaxC": 230,
+        "vacuumMaxTemperatureC": 230
+      },
+      {
+        "nominalSize": "3/4",
+        "insideDiameterMm": 19.0,
+        "outsideDiameterMm": 25.4,
+        "staticBendRadiusMm": 88.9,
+        "dynamicBendRadiusMm": 162,
+        "workingPressureBar": 86.1,
+        "burstPressureBar": 344,
+        "temperatureMinC": -73,
+        "temperatureMaxC": 230,
+        "vacuumMaxTemperatureC": 93
+      },
+      {
+        "nominalSize": "1",
+        "insideDiameterMm": 25.4,
+        "outsideDiameterMm": 33.5,
+        "staticBendRadiusMm": 140,
+        "dynamicBendRadiusMm": 182,
+        "workingPressureBar": 68.9,
+        "burstPressureBar": 275,
+        "temperatureMinC": -73,
+        "temperatureMaxC": 230,
+        "vacuumMaxTemperatureC": 65
+      }
+    ],
+    "warnings": [
+      "La presión admisible debe corregirse mediante la tabla presión-temperatura.",
+      "Los tamaños de 1/2, 3/4 y 1 pulg. admiten temperaturas mínimas de hasta -73 °C; los tamaños de 1/4 y 3/8 pulg. admiten hasta -53 °C.",
+      "La capacidad de vacío depende del tamaño y de la temperatura.",
+      "La aptitud frente a vibración no sustituye la validación de frecuencia, amplitud y vida cíclica.",
+      "Las conexiones finales pueden limitar la presión y la temperatura."
+    ],
+    "corePolymer": "PTFE"
+  },
+  {
+    "series": "S",
+    "name": "Manguera de PTFE serie S",
+    "family": "Manguera de fluoropolímero",
+    "constructionType": "ptfe",
+    "constructionGroup": "fluoropolymer",
+    "description": "Manguera de PTFE altamente flexible con cubierta de silicona suave, fácil de limpiar y aislante frente a temperaturas extremas del fluido.",
+    "coreMaterial": "Ánima lisa de PTFE",
+    "reinforcement": "Malla de fibra y malla exterior de acero inoxidable 304",
+    "coverMaterial": "Silicona",
+    "electricalProperty": "Disponible con ánima de PTFE relleno de carbono negro para disipación estática",
+    "temperatureMinC": -53,
+    "temperatureMaxC": 204,
+    "basePressureTemperatureMaxC": 20,
+    "pressureReference": "Presión publicada a 20 °C; dispone de tabla presión-temperatura",
+    "dynamicPerformance": "alto",
+    "vibrationSuitability": "high",
+    "bendRadiusMeasurement": "inside",
+    "lowPermeationSuitable": null,
+    "chemicalCompatibilityLevel": "high",
+    "vacuumSuitable": true,
+    "sizes": [
+      {
+        "nominalSize": "1/8",
+        "insideDiameterMm": 3.2,
+        "outsideDiameterMm": 10.7,
+        "staticBendRadiusMm": 38.1,
+        "dynamicBendRadiusMm": 95.2,
+        "workingPressureBar": 206,
+        "burstPressureBar": 826
+      },
+      {
+        "nominalSize": "1/4",
+        "insideDiameterMm": 6.4,
+        "outsideDiameterMm": 14.0,
+        "staticBendRadiusMm": 31.8,
+        "dynamicBendRadiusMm": 107,
+        "workingPressureBar": 241,
+        "burstPressureBar": 964
+      },
+      {
+        "nominalSize": "3/8",
+        "insideDiameterMm": 9.6,
+        "outsideDiameterMm": 18.0,
+        "staticBendRadiusMm": 44.4,
+        "dynamicBendRadiusMm": 112,
+        "workingPressureBar": 206,
+        "burstPressureBar": 826
+      },
+      {
+        "nominalSize": "1/2",
+        "insideDiameterMm": 12.7,
+        "outsideDiameterMm": 21.8,
+        "staticBendRadiusMm": 63.5,
+        "dynamicBendRadiusMm": 116,
+        "workingPressureBar": 124,
+        "burstPressureBar": 496
+      },
+      {
+        "nominalSize": "3/4",
+        "insideDiameterMm": 19.0,
+        "outsideDiameterMm": 28.4,
+        "staticBendRadiusMm": 88.9,
+        "dynamicBendRadiusMm": 162,
+        "workingPressureBar": 86.1,
+        "burstPressureBar": 344
+      },
+      {
+        "nominalSize": "1",
+        "insideDiameterMm": 25.4,
+        "outsideDiameterMm": 39.4,
+        "staticBendRadiusMm": 140,
+        "dynamicBendRadiusMm": 182,
+        "workingPressureBar": 68.9,
+        "burstPressureBar": 275
+      }
+    ],
+    "warnings": [
+      "La presión admisible debe corregirse mediante la tabla presión-temperatura.",
+      "La cubierta de silicona modifica el diámetro exterior y debe considerarse en el espacio de instalación.",
+      "Las conexiones finales pueden limitar la presión y la temperatura."
+    ],
+    "corePolymer": "PTFE"
+  },
+  {
+    "series": "C",
+    "name": "Manguera de PTFE serie C",
+    "family": "Manguera de fluoropolímero",
+    "constructionType": "ptfe",
+    "constructionGroup": "fluoropolymer",
+    "description": "Manguera de PTFE ligera y altamente flexible, utilizada normalmente en aplicaciones que requieren alta flexibilidad y compatibilidad química.",
+    "coreMaterial": "Ánima corrugada helicoidal de PTFE",
+    "reinforcement": "Malla exterior de acero inoxidable 304",
+    "coverMaterial": null,
+    "electricalProperty": "Disponible con ánima de PTFE relleno de carbono negro para disipación estática",
+    "temperatureMinC": -53,
+    "temperatureMaxC": 230,
+    "basePressureTemperatureMaxC": 20,
+    "pressureReference": "Presión publicada a 20 °C; dispone de tabla presión-temperatura",
+    "dynamicPerformance": "alto",
+    "vibrationSuitability": "medium",
+    "bendRadiusMeasurement": "inside",
+    "lowPermeationSuitable": null,
+    "chemicalCompatibilityLevel": "high",
+    "vacuumSuitable": true,
+    "sizes": [
+      {
+        "nominalSize": "1/2",
+        "insideDiameterMm": 12.7,
+        "outsideDiameterMm": 19.3,
+        "staticBendRadiusMm": 63.5,
+        "dynamicBendRadiusMm": 95.2,
+        "workingPressureBar": 103,
+        "burstPressureBar": 413,
+        "temperatureMinC": -53,
+        "temperatureMaxC": 230,
+        "vacuumMaxTemperatureC": 230
+      },
+      {
+        "nominalSize": "3/4",
+        "insideDiameterMm": 19.0,
+        "outsideDiameterMm": 25.4,
+        "staticBendRadiusMm": 76.2,
+        "dynamicBendRadiusMm": 99.1,
+        "workingPressureBar": 75.7,
+        "burstPressureBar": 303,
+        "temperatureMinC": -53,
+        "temperatureMaxC": 230,
+        "vacuumMaxTemperatureC": 230
+      },
+      {
+        "nominalSize": "1",
+        "insideDiameterMm": 25.4,
+        "outsideDiameterMm": 33.5,
+        "staticBendRadiusMm": 140,
+        "dynamicBendRadiusMm": 182,
+        "workingPressureBar": 51.6,
+        "burstPressureBar": 206,
+        "temperatureMinC": -53,
+        "temperatureMaxC": 230,
+        "vacuumMaxTemperatureC": 93
+      },
+      {
+        "nominalSize": "1 1/2",
+        "insideDiameterMm": 38.1,
+        "outsideDiameterMm": 51.6,
+        "staticBendRadiusMm": 152,
+        "dynamicBendRadiusMm": 198,
+        "workingPressureBar": 48.2,
+        "burstPressureBar": 192,
+        "temperatureMinC": -28,
+        "temperatureMaxC": 171,
+        "vacuumMaxTemperatureC": 65
+      },
+      {
+        "nominalSize": "2",
+        "insideDiameterMm": 50.8,
+        "outsideDiameterMm": 64.5,
+        "staticBendRadiusMm": 190,
+        "dynamicBendRadiusMm": 248,
+        "workingPressureBar": 36.1,
+        "burstPressureBar": 144,
+        "temperatureMinC": -28,
+        "temperatureMaxC": 171,
+        "vacuumMaxTemperatureC": null
+      }
+    ],
+    "warnings": [
+      "La presión admisible debe corregirse mediante la tabla presión-temperatura.",
+      "Los tamaños de 1 1/2 y 2 pulg. admiten temperaturas de -28 a 171 °C.",
+      "La capacidad de vacío depende del tamaño y de la temperatura.",
+      "El tamaño de 2 pulg. no presenta una clasificación general de vacío en la tabla técnica.",
+      "Las conexiones finales pueden limitar la presión y la temperatura del ensamblaje."
+    ],
+    "corePolymer": "PTFE"
+  },
+  {
+    "series": "J",
+    "name": "Manguera de PTFE serie J",
+    "family": "Manguera de fluoropolímero",
+    "constructionType": "ptfe",
+    "constructionGroup": "fluoropolymer",
+    "description": "Manguera de PTFE ligera y altamente flexible, con cubierta de silicona suave, fácil de limpiar y aislante frente a temperaturas extremas del fluido.",
+    "coreMaterial": "Ánima corrugada helicoidal de PTFE",
+    "reinforcement": "Malla exterior de acero inoxidable 304",
+    "coverMaterial": "Silicona blanca",
+    "electricalProperty": "Consultar las propiedades eléctricas de la configuración",
+    "temperatureMinC": -53,
+    "temperatureMaxC": 204,
+    "basePressureTemperatureMaxC": 20,
+    "pressureReference": "Presión publicada a 20 °C; dispone de tabla presión-temperatura",
+    "dynamicPerformance": "alto",
+    "vibrationSuitability": "medium",
+    "bendRadiusMeasurement": "inside",
+    "lowPermeationSuitable": null,
+    "chemicalCompatibilityLevel": "high",
+    "vacuumSuitable": true,
+    "sizes": [
+      {
+        "nominalSize": "1/2",
+        "insideDiameterMm": 12.7,
+        "outsideDiameterMm": 22.4,
+        "staticBendRadiusMm": 63.5,
+        "dynamicBendRadiusMm": 95.2,
+        "workingPressureBar": 103,
+        "burstPressureBar": 413
+      },
+      {
+        "nominalSize": "3/4",
+        "insideDiameterMm": 19.0,
+        "outsideDiameterMm": 28.4,
+        "staticBendRadiusMm": 76.2,
+        "dynamicBendRadiusMm": 99.1,
+        "workingPressureBar": 75.7,
+        "burstPressureBar": 303
+      },
+      {
+        "nominalSize": "1",
+        "insideDiameterMm": 25.4,
+        "outsideDiameterMm": 37.3,
+        "staticBendRadiusMm": 140,
+        "dynamicBendRadiusMm": 182,
+        "workingPressureBar": 51.6,
+        "burstPressureBar": 206
+      }
+    ],
+    "warnings": [
+      "La presión admisible debe corregirse mediante la tabla presión-temperatura.",
+      "La cubierta de silicona aumenta el diámetro exterior y debe considerarse en el espacio disponible.",
+      "Las conexiones finales pueden limitar la presión y la temperatura del ensamblaje."
+    ],
+    "corePolymer": "PTFE"
+  },
+  {
+    "series": "N",
+    "name": "Manguera de PTFE serie N",
+    "family": "Manguera de fluoropolímero",
+    "constructionType": "ptfe",
+    "constructionGroup": "fluoropolymer",
+    "description": "Manguera de PTFE no metálica, ligera y flexible, diseñada para aplicaciones que requieren compatibilidad química, disipación estática y una malla exterior no conductiva.",
+    "coreMaterial": "Ánima de PTFE corrugado helicoidal relleno de carbono negro",
+    "reinforcement": "Capa aislante cerámica y malla exterior de fibra de aramida",
+    "coverMaterial": null,
+    "electricalProperty": "Ánima disipadora de electricidad estática y refuerzo exterior no metálico",
+    "temperatureMinC": -53,
+    "temperatureMaxC": 230,
+    "basePressureTemperatureMaxC": 20,
+    "pressureReference": "Presión publicada a 20 °C; dispone de tabla presión-temperatura",
+    "dynamicPerformance": "alto",
+    "vibrationSuitability": "high",
+    "bendRadiusMeasurement": "inside",
+    "lowPermeationSuitable": null,
+    "chemicalCompatibilityLevel": "high",
+    "vacuumSuitable": null,
+    "sizes": [
+      {
+        "nominalSize": "3/8",
+        "insideDiameterMm": 9.4,
+        "outsideDiameterMm": 17.8,
+        "staticBendRadiusMm": 63.5,
+        "dynamicBendRadiusMm": 102,
+        "workingPressureBar": 86.1,
+        "burstPressureBar": 344,
+        "vacuumMaxTemperatureC": 230
+      },
+      {
+        "nominalSize": "1/2",
+        "insideDiameterMm": 13.0,
+        "outsideDiameterMm": 21.8,
+        "staticBendRadiusMm": 88.9,
+        "dynamicBendRadiusMm": 133,
+        "workingPressureBar": 51.6,
+        "burstPressureBar": 206,
+        "vacuumMaxTemperatureC": 204
+      },
+      {
+        "nominalSize": "3/4",
+        "insideDiameterMm": 19.0,
+        "outsideDiameterMm": 28.4,
+        "staticBendRadiusMm": 114,
+        "dynamicBendRadiusMm": 149,
+        "workingPressureBar": 25.8,
+        "burstPressureBar": 103,
+        "vacuumMaxTemperatureC": null
+      }
+    ],
+    "warnings": [
+      "La presión admisible debe corregirse mediante la tabla presión-temperatura.",
+      "La capacidad de vacío depende del tamaño y de la temperatura.",
+      "El tamaño de 3/4 pulg. no presenta una clasificación general de vacío en la tabla técnica.",
+      "Las conexiones finales pueden limitar la presión y la temperatura."
+    ],
+    "corePolymer": "PTFE"
+  },
+  {
+    "series": "W",
+    "name": "Manguera de PTFE serie W",
+    "family": "Manguera de fluoropolímero",
+    "constructionType": "ptfe",
+    "constructionGroup": "fluoropolymer",
+    "description": "Manguera de PTFE con cubierta de silicona, diseñada para aplicaciones que requieren flexibilidad, compatibilidad química, disipación estática y aislamiento exterior frente al calor o al frío.",
+    "coreMaterial": "Ánima lisa de PTFE relleno de carbono negro",
+    "reinforcement": "Malla de fibra, capa aislante cerámica y malla exterior de acero inoxidable 304",
+    "coverMaterial": "Silicona disponible en varios colores",
+    "electricalProperty": "Ánima disipadora de electricidad estática",
+    "temperatureMinC": -53,
+    "temperatureMaxC": 204,
+    "basePressureTemperatureMaxC": 20,
+    "pressureReference": "Presión publicada a 20 °C para todo el rango general de temperatura",
+    "dynamicPerformance": "alto",
+    "vibrationSuitability": "high",
+    "bendRadiusMeasurement": "inside",
+    "lowPermeationSuitable": null,
+    "chemicalCompatibilityLevel": "high",
+    "vacuumSuitable": null,
+    "sizes": [
+      {
+        "nominalSize": "3/8",
+        "insideDiameterMm": 8.9,
+        "outsideDiameterMm": 19.0,
+        "staticBendRadiusMm": 69.8,
+        "dynamicBendRadiusMm": 112,
+        "workingPressureBar": 51.6,
+        "burstPressureBar": 206,
+        "vacuumMaxTemperatureC": 204
+      },
+      {
+        "nominalSize": "1/2",
+        "insideDiameterMm": 12.7,
+        "outsideDiameterMm": 23.4,
+        "staticBendRadiusMm": 108,
+        "dynamicBendRadiusMm": 162,
+        "workingPressureBar": 51.6,
+        "burstPressureBar": 206,
+        "vacuumMaxTemperatureC": 93
+      },
+      {
+        "nominalSize": "3/4",
+        "insideDiameterMm": 19.0,
+        "outsideDiameterMm": 30.2,
+        "staticBendRadiusMm": 171,
+        "dynamicBendRadiusMm": 203,
+        "workingPressureBar": 34.4,
+        "burstPressureBar": 137,
+        "vacuumMaxTemperatureC": null
+      }
+    ],
+    "warnings": [
+      "La capacidad de vacío depende del tamaño y de la temperatura.",
+      "El tamaño de 3/4 pulg. no presenta una clasificación general de vacío en la tabla técnica.",
+      "La cubierta de silicona aumenta el diámetro exterior y debe considerarse en el espacio disponible.",
+      "Las conexiones finales pueden limitar la presión y la temperatura."
+    ],
+    "corePolymer": "PTFE"
+  },
+  {
+    "series": "F",
+    "name": "Manguera de PTFE serie F",
+    "family": "Manguera de fluoropolímero",
+    "constructionType": "ptfe",
+    "constructionGroup": "fluoropolymer",
+    "description": "Manguera de PTFE no metálica y flexible, con refuerzo de fibra unido al ánima para aumentar la resistencia al retorcimiento.",
+    "coreMaterial": "Ánima lisa de PTFE",
+    "reinforcement": "Malla exterior de fibra",
+    "coverMaterial": null,
+    "electricalProperty": "Disponible con ánima de PTFE relleno de carbono negro para disipación estática",
+    "temperatureMinC": -53,
+    "temperatureMaxC": 230,
+    "basePressureTemperatureMaxC": 20,
+    "pressureReference": "Presión publicada a 20 °C; dispone de tabla presión-temperatura",
+    "dynamicPerformance": "alto",
+    "vibrationSuitability": "high",
+    "bendRadiusMeasurement": "inside",
+    "lowPermeationSuitable": null,
+    "chemicalCompatibilityLevel": "high",
+    "vacuumSuitable": null,
+    "sizes": [
+      {
+        "nominalSize": "1/4",
+        "insideDiameterMm": 6.4,
+        "outsideDiameterMm": 10.4,
+        "staticBendRadiusMm": 69.9,
+        "dynamicBendRadiusMm": 140,
+        "workingPressureBar": 55.1,
+        "burstPressureBar": 220
+      },
+      {
+        "nominalSize": "3/8",
+        "insideDiameterMm": 9.6,
+        "outsideDiameterMm": 14.0,
+        "staticBendRadiusMm": 82.6,
+        "dynamicBendRadiusMm": 132,
+        "workingPressureBar": 44.7,
+        "burstPressureBar": 179
+      },
+      {
+        "nominalSize": "1/2",
+        "insideDiameterMm": 12.7,
+        "outsideDiameterMm": 17.8,
+        "staticBendRadiusMm": 133,
+        "dynamicBendRadiusMm": 200,
+        "workingPressureBar": 31.0,
+        "burstPressureBar": 124
+      },
+      {
+        "nominalSize": "3/4",
+        "insideDiameterMm": 19.0,
+        "outsideDiameterMm": 23.9,
+        "staticBendRadiusMm": 165,
+        "dynamicBendRadiusMm": 215,
+        "workingPressureBar": 22.3,
+        "burstPressureBar": 89.5
+      }
+    ],
+    "warnings": [
+      "La presión admisible debe corregirse mediante la tabla presión-temperatura.",
+      "El catálogo no publica una clasificación general de vacío en la tabla técnica de esta serie.",
+      "Las conexiones finales pueden limitar la presión y la temperatura."
+    ],
+    "corePolymer": "PTFE"
+  },
+  {
+    "series": "U",
+    "name": "Manguera de PFA serie U",
+    "family": "Manguera de fluoropolímero",
+    "constructionType": "pfa",
+    "constructionGroup": "fluoropolymer",
+    "corePolymer": "PFA",
+    "description": "Manguera de PFA de alta flexibilidad con cubierta de silicona suave, no contaminante y fácil de limpiar.",
+    "coreMaterial": "Ánima lisa de PFA",
+    "reinforcement": "Malla de acero inoxidable 302",
+    "coverMaterial": "Silicona",
+    "electricalProperty": "Disponible con ánima de PFA relleno de carbono negro para disipación estática",
+    "temperatureMinC": -53,
+    "temperatureMaxC": 204,
+    "basePressureTemperatureMaxC": 20,
+    "pressureReference": "Presión publicada a 20 °C; dispone de tabla presión-temperatura",
+    "dynamicPerformance": "alto",
+    "vibrationSuitability": "high",
+    "bendRadiusMeasurement": "inside",
+    "lowPermeationSuitable": null,
+    "chemicalCompatibilityLevel": "high",
+    "vacuumSuitable": true,
+    "approvals": [
+      "FDA 21 CFR Parte 177.1550",
+      "USP <87>",
+      "USP <88> Clase VI a 121 °C",
+      "3-A para tamaños de 3/4 a 2 pulg."
+    ],
+    "sizes": [
+      {
+        "nominalSize": "1/2",
+        "insideDiameterMm": 12.7,
+        "outsideDiameterMm": 20.6,
+        "staticBendRadiusMm": 38.1,
+        "dynamicBendRadiusMm": 114,
+        "temperatureMinC": -53,
+        "temperatureMaxC": 204,
+        "vacuumMaxTemperatureC": 204,
+        "workingPressureBar": 20.6,
+        "burstPressureBar": 82.6,
+        "pressureTemperatureTable": [
+          {
+            "temperatureC": -53,
+            "workingPressureBar": 13.7
+          },
+          {
+            "temperatureC": -17,
+            "workingPressureBar": 20.6
+          },
+          {
+            "temperatureC": 37,
+            "workingPressureBar": 20.6
+          },
+          {
+            "temperatureC": 93,
+            "workingPressureBar": 19.2
+          },
+          {
+            "temperatureC": 148,
+            "workingPressureBar": 14.4
+          },
+          {
+            "temperatureC": 204,
+            "workingPressureBar": 11.0
+          }
+        ]
+      },
+      {
+        "nominalSize": "3/4",
+        "insideDiameterMm": 19.0,
+        "outsideDiameterMm": 28.7,
+        "staticBendRadiusMm": 63.5,
+        "dynamicBendRadiusMm": 132,
+        "temperatureMinC": -53,
+        "temperatureMaxC": 204,
+        "vacuumMaxTemperatureC": 204,
+        "workingPressureBar": 20.6,
+        "burstPressureBar": 82.6,
+        "pressureTemperatureTable": [
+          {
+            "temperatureC": -53,
+            "workingPressureBar": 7.9
+          },
+          {
+            "temperatureC": -17,
+            "workingPressureBar": 20.6
+          },
+          {
+            "temperatureC": 37,
+            "workingPressureBar": 20.6
+          },
+          {
+            "temperatureC": 93,
+            "workingPressureBar": 20.6
+          },
+          {
+            "temperatureC": 148,
+            "workingPressureBar": 18.6
+          },
+          {
+            "temperatureC": 204,
+            "workingPressureBar": 13.4
+          }
+        ]
+      },
+      {
+        "nominalSize": "1",
+        "insideDiameterMm": 25.4,
+        "outsideDiameterMm": 37.6,
+        "staticBendRadiusMm": 102,
+        "dynamicBendRadiusMm": 165,
+        "temperatureMinC": -53,
+        "temperatureMaxC": 204,
+        "vacuumMaxTemperatureC": 121,
+        "workingPressureBar": 17.2,
+        "burstPressureBar": 68.9,
+        "pressureTemperatureTable": [
+          {
+            "temperatureC": -53,
+            "workingPressureBar": 17.2
+          },
+          {
+            "temperatureC": -17,
+            "workingPressureBar": 17.2
+          },
+          {
+            "temperatureC": 37,
+            "workingPressureBar": 17.2
+          },
+          {
+            "temperatureC": 93,
+            "workingPressureBar": 17.2
+          },
+          {
+            "temperatureC": 148,
+            "workingPressureBar": 15.8
+          },
+          {
+            "temperatureC": 204,
+            "workingPressureBar": 12.0
+          }
+        ]
+      },
+      {
+        "nominalSize": "1 1/2",
+        "insideDiameterMm": 38.1,
+        "outsideDiameterMm": 50.8,
+        "staticBendRadiusMm": 178,
+        "dynamicBendRadiusMm": 231,
+        "temperatureMinC": -53,
+        "temperatureMaxC": 204,
+        "vacuumMaxTemperatureC": 121,
+        "workingPressureBar": 13.7,
+        "burstPressureBar": 55.1,
+        "pressureTemperatureTable": [
+          {
+            "temperatureC": -53,
+            "workingPressureBar": 13.7
+          },
+          {
+            "temperatureC": -17,
+            "workingPressureBar": 13.7
+          },
+          {
+            "temperatureC": 37,
+            "workingPressureBar": 13.7
+          },
+          {
+            "temperatureC": 93,
+            "workingPressureBar": 13.7
+          },
+          {
+            "temperatureC": 148,
+            "workingPressureBar": 13.7
+          },
+          {
+            "temperatureC": 204,
+            "workingPressureBar": 13.7
+          }
+        ]
+      },
+      {
+        "nominalSize": "2",
+        "insideDiameterMm": 50.8,
+        "outsideDiameterMm": 63.5,
+        "staticBendRadiusMm": 178,
+        "dynamicBendRadiusMm": 231,
+        "temperatureMinC": -53,
+        "temperatureMaxC": 204,
+        "vacuumMaxTemperatureC": 65,
+        "workingPressureBar": 10.3,
+        "burstPressureBar": 41.3,
+        "pressureTemperatureTable": [
+          {
+            "temperatureC": -53,
+            "workingPressureBar": 10.3
+          },
+          {
+            "temperatureC": -17,
+            "workingPressureBar": 10.3
+          },
+          {
+            "temperatureC": 37,
+            "workingPressureBar": 10.3
+          },
+          {
+            "temperatureC": 93,
+            "workingPressureBar": 10.3
+          },
+          {
+            "temperatureC": 148,
+            "workingPressureBar": 10.3
+          },
+          {
+            "temperatureC": 204,
+            "workingPressureBar": 10.3
+          }
+        ]
+      }
+    ],
+    "warnings": [
+      "La presión admisible debe corregirse mediante la tabla presión-temperatura.",
+      "La capacidad de vacío depende del tamaño y de la temperatura.",
+      "La cubierta de silicona aumenta el diámetro exterior y debe considerarse en el espacio disponible.",
+      "La aprobación 3-A solo aplica a tamaños de 3/4 a 2 pulg.",
+      "Las conexiones finales pueden limitar la presión y la temperatura del ensamblaje."
+    ]
+  }
+]

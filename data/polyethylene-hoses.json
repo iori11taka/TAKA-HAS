@@ -1,0 +1,61 @@
+[
+  {
+    "series": "7P",
+    "name": "Manguera de polietileno serie 7P",
+    "family": "Manguera de polietileno",
+    "constructionType": "polyethylene",
+    "constructionGroup": "polymer",
+    "description": "Manguera de polietileno diseñada para aplicaciones de alimentación, productos lácteos y agua, con cubierta exterior resistente a la abrasión.",
+    "coreMaterial": "Ánima lisa de polietileno",
+    "reinforcement": "Refuerzo interno de fibra",
+    "coverMaterial": "Cubierta de poliuretano azul no perforada",
+    "electricalProperty": "Consultar las propiedades eléctricas de la configuración",
+    "temperatureMinC": -23,
+    "temperatureMaxC": 65,
+    "basePressureTemperatureMaxC": 20,
+    "pressureReference": "Presión de servicio publicada a 20 °C",
+    "dynamicPerformance": "medio",
+    "vibrationSuitability": "high",
+    "bendRadiusMeasurement": "inside",
+    "lowPermeationSuitable": null,
+    "chemicalCompatibilityLevel": "medium",
+    "vacuumSuitable": null,
+    "foodServiceSuitable": true,
+    "approvals": [
+      "FDA 21 CFR Parte 177.1520",
+      "NSF-51"
+    ],
+    "sizes": [
+      {
+        "nominalSize": "1/4",
+        "insideDiameterMm": 6.4,
+        "outsideDiameterMm": 13.2,
+        "minimumBendRadiusMm": 31.8,
+        "workingPressureBar": 189,
+        "burstPressureBar": 757
+      },
+      {
+        "nominalSize": "3/8",
+        "insideDiameterMm": 9.7,
+        "outsideDiameterMm": 16.8,
+        "minimumBendRadiusMm": 50.8,
+        "workingPressureBar": 155,
+        "burstPressureBar": 620
+      },
+      {
+        "nominalSize": "1/2",
+        "insideDiameterMm": 12.7,
+        "outsideDiameterMm": 20.6,
+        "minimumBendRadiusMm": 76.2,
+        "workingPressureBar": 137,
+        "burstPressureBar": 551
+      }
+    ],
+    "warnings": [
+      "Las presiones publicadas corresponden a una temperatura de 20 °C.",
+      "La cubierta no perforada puede formar burbujas durante el servicio con gases.",
+      "Debe verificarse la compatibilidad química del fluido con el polietileno y el resto de los materiales húmedos.",
+      "Las conexiones finales pueden limitar la presión y la temperatura del ensamblaje."
+    ]
+  }
+]

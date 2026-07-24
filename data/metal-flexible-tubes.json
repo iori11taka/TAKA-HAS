@@ -1,0 +1,583 @@
+[
+  {
+    "series": "FN",
+    "name": "Tubo metálico flexible serie FN",
+    "family": "Tubo metálico flexible",
+    "constructionType": "metal",
+    "constructionGroup": "metal-flexible-tube",
+    "description": "Tubo metálico flexible recocido que conserva su forma y puede compensar desalineamientos entre conexiones estáticas en aplicaciones de vacío o baja presión.",
+    "coreMaterial": "Acero inoxidable 316L corrugado anular",
+    "reinforcement": null,
+    "coverMaterial": null,
+    "electricalProperty": "Conductivo",
+    "temperatureMinC": -200,
+    "temperatureMaxC": 537,
+    "basePressureTemperatureMaxC": 148,
+    "pressureReference": "Presión publicada para el rango de -200 a 148 °C; dispone de tabla presión-temperatura basada en ASME B31.3",
+    "dynamicPerformance": "limitado",
+    "vibrationSuitability": "low",
+    "bendRadiusMeasurement": "centerline",
+    "lowPermeationSuitable": true,
+    "chemicalCompatibilityLevel": "medium",
+    "vacuumSuitable": true,
+    "annealed": true,
+    "shapeRetentionSuitable": true,
+    "heliumLeakTested": true,
+    "maximumHeliumLeakRateStdCm3S": 1e-07,
+    "maximumStandardAssemblyLengthMm": 2440,
+    "sizes": [
+      {
+        "nominalSize": "1/4",
+        "insideDiameterMm": 6.9,
+        "outsideDiameterMm": 10.4,
+        "staticBendRadiusMm": 25.4,
+        "dynamicBendRadiusMm": null,
+        "temperatureMinC": -200,
+        "temperatureMaxC": 537,
+        "workingPressureBar": 9.3,
+        "burstPressureBar": null,
+        "nominalWallThicknessMm": 0.15,
+        "weightKgPerM": 0.06,
+        "pressureTemperatureTable": [
+          {
+            "temperatureC": -200,
+            "workingPressureBar": 9.3
+          },
+          {
+            "temperatureC": 148,
+            "workingPressureBar": 9.3
+          },
+          {
+            "temperatureC": 204,
+            "workingPressureBar": 8.7
+          },
+          {
+            "temperatureC": 260,
+            "workingPressureBar": 8.2
+          },
+          {
+            "temperatureC": 315,
+            "workingPressureBar": 7.8
+          },
+          {
+            "temperatureC": 371,
+            "workingPressureBar": 7.5
+          },
+          {
+            "temperatureC": 426,
+            "workingPressureBar": 7.1
+          },
+          {
+            "temperatureC": 482,
+            "workingPressureBar": 6.8
+          },
+          {
+            "temperatureC": 537,
+            "workingPressureBar": 6.6
+          }
+        ]
+      },
+      {
+        "nominalSize": "3/8",
+        "insideDiameterMm": 9.7,
+        "outsideDiameterMm": 13.7,
+        "staticBendRadiusMm": 30.5,
+        "dynamicBendRadiusMm": null,
+        "temperatureMinC": -200,
+        "temperatureMaxC": 537,
+        "workingPressureBar": 4.4,
+        "burstPressureBar": null,
+        "nominalWallThicknessMm": 0.15,
+        "weightKgPerM": 0.09,
+        "pressureTemperatureTable": [
+          {
+            "temperatureC": -200,
+            "workingPressureBar": 4.4
+          },
+          {
+            "temperatureC": 148,
+            "workingPressureBar": 4.4
+          },
+          {
+            "temperatureC": 204,
+            "workingPressureBar": 4.2
+          },
+          {
+            "temperatureC": 260,
+            "workingPressureBar": 3.9
+          },
+          {
+            "temperatureC": 315,
+            "workingPressureBar": 3.7
+          },
+          {
+            "temperatureC": 371,
+            "workingPressureBar": 3.6
+          },
+          {
+            "temperatureC": 426,
+            "workingPressureBar": 3.4
+          },
+          {
+            "temperatureC": 482,
+            "workingPressureBar": 3.3
+          },
+          {
+            "temperatureC": 537,
+            "workingPressureBar": 3.1
+          }
+        ]
+      },
+      {
+        "nominalSize": "1/2",
+        "insideDiameterMm": 13.5,
+        "outsideDiameterMm": 19.1,
+        "staticBendRadiusMm": 38.1,
+        "dynamicBendRadiusMm": null,
+        "temperatureMinC": -200,
+        "temperatureMaxC": 537,
+        "workingPressureBar": 4.1,
+        "burstPressureBar": null,
+        "nominalWallThicknessMm": 0.2,
+        "weightKgPerM": 0.16,
+        "pressureTemperatureTable": [
+          {
+            "temperatureC": -200,
+            "workingPressureBar": 4.1
+          },
+          {
+            "temperatureC": 148,
+            "workingPressureBar": 4.1
+          },
+          {
+            "temperatureC": 204,
+            "workingPressureBar": 3.8
+          },
+          {
+            "temperatureC": 260,
+            "workingPressureBar": 3.6
+          },
+          {
+            "temperatureC": 315,
+            "workingPressureBar": 3.4
+          },
+          {
+            "temperatureC": 371,
+            "workingPressureBar": 3.3
+          },
+          {
+            "temperatureC": 426,
+            "workingPressureBar": 3.1
+          },
+          {
+            "temperatureC": 482,
+            "workingPressureBar": 3.0
+          },
+          {
+            "temperatureC": 537,
+            "workingPressureBar": 2.9
+          }
+        ]
+      },
+      {
+        "nominalSize": "3/4",
+        "insideDiameterMm": 19.8,
+        "outsideDiameterMm": 30.7,
+        "staticBendRadiusMm": 53.0,
+        "dynamicBendRadiusMm": null,
+        "temperatureMinC": -200,
+        "temperatureMaxC": 537,
+        "workingPressureBar": 1.5,
+        "burstPressureBar": null,
+        "nominalWallThicknessMm": 0.25,
+        "weightKgPerM": 0.28,
+        "pressureTemperatureTable": [
+          {
+            "temperatureC": -200,
+            "workingPressureBar": 1.5
+          },
+          {
+            "temperatureC": 148,
+            "workingPressureBar": 1.5
+          },
+          {
+            "temperatureC": 204,
+            "workingPressureBar": 1.4
+          },
+          {
+            "temperatureC": 260,
+            "workingPressureBar": 1.3
+          },
+          {
+            "temperatureC": 315,
+            "workingPressureBar": 1.3
+          },
+          {
+            "temperatureC": 371,
+            "workingPressureBar": 1.2
+          },
+          {
+            "temperatureC": 426,
+            "workingPressureBar": 1.1
+          },
+          {
+            "temperatureC": 482,
+            "workingPressureBar": 1.1
+          },
+          {
+            "temperatureC": 537,
+            "workingPressureBar": 1.1
+          }
+        ]
+      },
+      {
+        "nominalSize": "1",
+        "insideDiameterMm": 26.4,
+        "outsideDiameterMm": 36.6,
+        "staticBendRadiusMm": 69.0,
+        "dynamicBendRadiusMm": null,
+        "temperatureMinC": -200,
+        "temperatureMaxC": 537,
+        "workingPressureBar": 1.2,
+        "burstPressureBar": null,
+        "nominalWallThicknessMm": 0.25,
+        "weightKgPerM": 0.39,
+        "pressureTemperatureTable": [
+          {
+            "temperatureC": -200,
+            "workingPressureBar": 1.2
+          },
+          {
+            "temperatureC": 148,
+            "workingPressureBar": 1.2
+          },
+          {
+            "temperatureC": 204,
+            "workingPressureBar": 1.1
+          },
+          {
+            "temperatureC": 260,
+            "workingPressureBar": 1.1
+          },
+          {
+            "temperatureC": 315,
+            "workingPressureBar": 1.0
+          },
+          {
+            "temperatureC": 371,
+            "workingPressureBar": 0.96
+          },
+          {
+            "temperatureC": 426,
+            "workingPressureBar": 0.89
+          },
+          {
+            "temperatureC": 482,
+            "workingPressureBar": 0.89
+          },
+          {
+            "temperatureC": 537,
+            "workingPressureBar": 0.82
+          }
+        ]
+      },
+      {
+        "nominalSize": "1 1/2",
+        "insideDiameterMm": 40.1,
+        "outsideDiameterMm": 51.8,
+        "staticBendRadiusMm": 99.0,
+        "dynamicBendRadiusMm": null,
+        "temperatureMinC": -200,
+        "temperatureMaxC": 537,
+        "workingPressureBar": 0.68,
+        "burstPressureBar": null,
+        "nominalWallThicknessMm": 0.3,
+        "weightKgPerM": 0.7,
+        "pressureTemperatureTable": [
+          {
+            "temperatureC": -200,
+            "workingPressureBar": 0.68
+          },
+          {
+            "temperatureC": 148,
+            "workingPressureBar": 0.68
+          },
+          {
+            "temperatureC": 204,
+            "workingPressureBar": 0.62
+          },
+          {
+            "temperatureC": 260,
+            "workingPressureBar": 0.55
+          },
+          {
+            "temperatureC": 315,
+            "workingPressureBar": 0.55
+          },
+          {
+            "temperatureC": 371,
+            "workingPressureBar": 0.55
+          },
+          {
+            "temperatureC": 426,
+            "workingPressureBar": 0.48
+          },
+          {
+            "temperatureC": 482,
+            "workingPressureBar": 0.48
+          },
+          {
+            "temperatureC": 537,
+            "workingPressureBar": 0.48
+          }
+        ]
+      },
+      {
+        "nominalSize": "2",
+        "insideDiameterMm": 52.1,
+        "outsideDiameterMm": 65.8,
+        "staticBendRadiusMm": 130.0,
+        "dynamicBendRadiusMm": null,
+        "temperatureMinC": -200,
+        "temperatureMaxC": 537,
+        "workingPressureBar": 0.41,
+        "burstPressureBar": null,
+        "nominalWallThicknessMm": 0.3,
+        "weightKgPerM": 0.88,
+        "pressureTemperatureTable": [
+          {
+            "temperatureC": -200,
+            "workingPressureBar": 0.41
+          },
+          {
+            "temperatureC": 148,
+            "workingPressureBar": 0.41
+          },
+          {
+            "temperatureC": 204,
+            "workingPressureBar": 0.34
+          },
+          {
+            "temperatureC": 260,
+            "workingPressureBar": 0.34
+          },
+          {
+            "temperatureC": 315,
+            "workingPressureBar": 0.34
+          },
+          {
+            "temperatureC": 371,
+            "workingPressureBar": 0.27
+          },
+          {
+            "temperatureC": 426,
+            "workingPressureBar": 0.27
+          },
+          {
+            "temperatureC": 482,
+            "workingPressureBar": 0.27
+          },
+          {
+            "temperatureC": 537,
+            "workingPressureBar": 0.27
+          }
+        ]
+      }
+    ],
+    "warnings": [
+      "El producto recocido no está clasificado para aplicaciones altamente dinámicas.",
+      "No someter el tubo metálico a golpes de ariete, subidas bruscas de presión o pulsaciones superiores al 50 % de la presión nominal de servicio.",
+      "La presión admisible debe corregirse mediante la tabla presión-temperatura.",
+      "Las conexiones finales pueden limitar la presión y la temperatura del ensamblaje.",
+      "La información de pedido estándar del catálogo enumera tamaños de 1/4, 3/8 y 1/2 pulg.; los tamaños mayores de la tabla técnica deben confirmarse con Swagelok antes de la selección final."
+    ]
+  },
+  {
+    "series": "FZ",
+    "name": "Tubo metálico flexible serie FZ",
+    "family": "Tubo metálico flexible",
+    "constructionType": "metal",
+    "constructionGroup": "metal-flexible-tube",
+    "description": "Tubo metálico flexible no recocido para aplicaciones dinámicas de vacío, alta temperatura o baja presión donde la permeación no es aceptable.",
+    "coreMaterial": "Acero inoxidable 316L corrugado anular",
+    "reinforcement": null,
+    "coverMaterial": null,
+    "electricalProperty": "Conductivo",
+    "temperatureMinC": -200,
+    "temperatureMaxC": 537,
+    "basePressureTemperatureMaxC": 148,
+    "pressureReference": "Presión publicada para el rango de -200 a 148 °C; dispone de tabla presión-temperatura basada en ASME B31.3",
+    "dynamicPerformance": "alto",
+    "vibrationSuitability": "low",
+    "bendRadiusMeasurement": "centerline",
+    "lowPermeationSuitable": true,
+    "chemicalCompatibilityLevel": "medium",
+    "vacuumSuitable": true,
+    "annealed": false,
+    "shapeRetentionSuitable": false,
+    "heliumLeakTested": true,
+    "maximumHeliumLeakRateStdCm3S": 1e-07,
+    "maximumStandardAssemblyLengthMm": 12190,
+    "sizes": [
+      {
+        "nominalSize": "1/4",
+        "insideDiameterMm": 6.9,
+        "outsideDiameterMm": 10.4,
+        "staticBendRadiusMm": 25.4,
+        "dynamicBendRadiusMm": 114.0,
+        "temperatureMinC": -200,
+        "temperatureMaxC": 537,
+        "workingPressureBar": 17.2,
+        "burstPressureBar": null,
+        "nominalWallThicknessMm": 0.15,
+        "weightKgPerM": 0.06,
+        "pressureTemperatureTable": [
+          {
+            "temperatureC": -200,
+            "workingPressureBar": 17.2
+          },
+          {
+            "temperatureC": 148,
+            "workingPressureBar": 17.2
+          },
+          {
+            "temperatureC": 204,
+            "workingPressureBar": 16.1
+          },
+          {
+            "temperatureC": 260,
+            "workingPressureBar": 15.3
+          },
+          {
+            "temperatureC": 315,
+            "workingPressureBar": 14.4
+          },
+          {
+            "temperatureC": 371,
+            "workingPressureBar": 13.9
+          },
+          {
+            "temperatureC": 426,
+            "workingPressureBar": 13.2
+          },
+          {
+            "temperatureC": 482,
+            "workingPressureBar": 12.7
+          },
+          {
+            "temperatureC": 537,
+            "workingPressureBar": 12.2
+          }
+        ]
+      },
+      {
+        "nominalSize": "3/8",
+        "insideDiameterMm": 9.7,
+        "outsideDiameterMm": 13.7,
+        "staticBendRadiusMm": 30.5,
+        "dynamicBendRadiusMm": 127.0,
+        "temperatureMinC": -200,
+        "temperatureMaxC": 537,
+        "workingPressureBar": 7.2,
+        "burstPressureBar": null,
+        "nominalWallThicknessMm": 0.15,
+        "weightKgPerM": 0.09,
+        "pressureTemperatureTable": [
+          {
+            "temperatureC": -200,
+            "workingPressureBar": 7.2
+          },
+          {
+            "temperatureC": 148,
+            "workingPressureBar": 7.2
+          },
+          {
+            "temperatureC": 204,
+            "workingPressureBar": 6.8
+          },
+          {
+            "temperatureC": 260,
+            "workingPressureBar": 6.4
+          },
+          {
+            "temperatureC": 315,
+            "workingPressureBar": 6.0
+          },
+          {
+            "temperatureC": 371,
+            "workingPressureBar": 5.8
+          },
+          {
+            "temperatureC": 426,
+            "workingPressureBar": 5.5
+          },
+          {
+            "temperatureC": 482,
+            "workingPressureBar": 5.3
+          },
+          {
+            "temperatureC": 537,
+            "workingPressureBar": 5.1
+          }
+        ]
+      },
+      {
+        "nominalSize": "1/2",
+        "insideDiameterMm": 13.5,
+        "outsideDiameterMm": 19.1,
+        "staticBendRadiusMm": 38.1,
+        "dynamicBendRadiusMm": 139.0,
+        "temperatureMinC": -200,
+        "temperatureMaxC": 537,
+        "workingPressureBar": 6.5,
+        "burstPressureBar": null,
+        "nominalWallThicknessMm": 0.2,
+        "weightKgPerM": 0.16,
+        "pressureTemperatureTable": [
+          {
+            "temperatureC": -200,
+            "workingPressureBar": 6.5
+          },
+          {
+            "temperatureC": 148,
+            "workingPressureBar": 6.5
+          },
+          {
+            "temperatureC": 204,
+            "workingPressureBar": 6.1
+          },
+          {
+            "temperatureC": 260,
+            "workingPressureBar": 5.8
+          },
+          {
+            "temperatureC": 315,
+            "workingPressureBar": 5.4
+          },
+          {
+            "temperatureC": 371,
+            "workingPressureBar": 5.3
+          },
+          {
+            "temperatureC": 426,
+            "workingPressureBar": 5.0
+          },
+          {
+            "temperatureC": 482,
+            "workingPressureBar": 4.8
+          },
+          {
+            "temperatureC": 537,
+            "workingPressureBar": 4.6
+          }
+        ]
+      }
+    ],
+    "warnings": [
+      "Aunque el tubo FZ puede utilizarse en aplicaciones dinámicas, la vibración alta y continua requiere evaluar frecuencia, amplitud y vida cíclica.",
+      "No someter el tubo metálico a golpes de ariete, subidas bruscas de presión o pulsaciones superiores al 50 % de la presión nominal de servicio.",
+      "La presión admisible debe corregirse mediante la tabla presión-temperatura.",
+      "Las conexiones finales pueden limitar la presión y la temperatura del ensamblaje."
+    ]
+  }
+]

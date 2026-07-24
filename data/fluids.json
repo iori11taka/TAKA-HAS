@@ -1,0 +1,439 @@
+[
+  {
+    "id": "water",
+    "name": "Agua",
+    "familyId": "aqueous_media",
+    "phase": "liquid",
+    "category": "neutral_aqueous",
+    "isOxidizer": false,
+    "isFlammable": false,
+    "isCryogenic": false,
+    "highPermeationConcern": false,
+    "requiresCleanService": false,
+    "tags": [
+      "aqueous",
+      "neutral"
+    ],
+    "warnings": [
+      "La composición, pureza y los tratamientos del agua pueden modificar la compatibilidad."
+    ],
+    "inheritFamilyCompatibility": true,
+    "engineeringStatus": "requires_validation"
+  },
+  {
+    "id": "seawater",
+    "name": "Agua de mar",
+    "familyId": "aqueous_media",
+    "phase": "liquid",
+    "category": "saline_aqueous",
+    "isOxidizer": false,
+    "isFlammable": false,
+    "isCryogenic": false,
+    "highPermeationConcern": false,
+    "requiresCleanService": false,
+    "tags": [
+      "aqueous",
+      "saline",
+      "chlorides"
+    ],
+    "warnings": [
+      "Los cloruros pueden afectar componentes metálicos externos y conexiones finales."
+    ],
+    "inheritFamilyCompatibility": true,
+    "engineeringStatus": "requires_validation"
+  },
+  {
+    "id": "compressed_air",
+    "name": "Aire comprimido",
+    "familyId": "inert_and_utility_gases",
+    "phase": "gas",
+    "category": "utility_gas",
+    "isOxidizer": false,
+    "isFlammable": false,
+    "isCryogenic": false,
+    "highPermeationConcern": false,
+    "requiresCleanService": false,
+    "tags": [
+      "gas",
+      "utility"
+    ],
+    "warnings": [
+      "Verificar humedad, aceite arrastrado y temperatura de descarga del compresor."
+    ],
+    "inheritFamilyCompatibility": true,
+    "engineeringStatus": "requires_validation"
+  },
+  {
+    "id": "nitrogen",
+    "name": "Nitrógeno",
+    "familyId": "inert_and_utility_gases",
+    "phase": "gas",
+    "category": "inert_gas",
+    "isOxidizer": false,
+    "isFlammable": false,
+    "isCryogenic": false,
+    "highPermeationConcern": false,
+    "requiresCleanService": false,
+    "tags": [
+      "gas",
+      "inert"
+    ],
+    "warnings": [
+      "La condición criogénica debe definirse como un servicio separado."
+    ],
+    "inheritFamilyCompatibility": true,
+    "engineeringStatus": "requires_validation"
+  },
+  {
+    "id": "oxygen",
+    "name": "Oxígeno",
+    "familyId": "oxidizing_gases",
+    "phase": "gas",
+    "category": "oxidizing_gas",
+    "isOxidizer": true,
+    "isFlammable": false,
+    "isCryogenic": false,
+    "highPermeationConcern": false,
+    "requiresCleanService": true,
+    "tags": [
+      "gas",
+      "oxidizer",
+      "clean_service"
+    ],
+    "warnings": [
+      "El servicio de oxígeno requiere limpieza, lubricantes y materiales específicamente aprobados."
+    ],
+    "inheritFamilyCompatibility": true,
+    "engineeringStatus": "requires_validation"
+  },
+  {
+    "id": "hydrogen",
+    "name": "Hidrógeno",
+    "familyId": "light_fuel_gases",
+    "phase": "gas",
+    "category": "fuel_gas",
+    "isOxidizer": false,
+    "isFlammable": true,
+    "isCryogenic": false,
+    "highPermeationConcern": true,
+    "requiresCleanService": false,
+    "tags": [
+      "gas",
+      "flammable",
+      "high_diffusion"
+    ],
+    "warnings": [
+      "Evaluar permeación, difusión, ventilación y disipación electrostática."
+    ],
+    "inheritFamilyCompatibility": true,
+    "engineeringStatus": "requires_validation"
+  },
+  {
+    "id": "natural_gas",
+    "name": "Gas natural",
+    "familyId": "hydrocarbon_fuel_gases",
+    "phase": "gas",
+    "category": "fuel_gas",
+    "isOxidizer": false,
+    "isFlammable": true,
+    "isCryogenic": false,
+    "highPermeationConcern": true,
+    "requiresCleanService": false,
+    "tags": [
+      "gas",
+      "flammable",
+      "hydrocarbon"
+    ],
+    "warnings": [
+      "La composición del gas natural varía; considerar condensados, H2S, CO2 y humedad."
+    ],
+    "inheritFamilyCompatibility": true,
+    "engineeringStatus": "requires_validation"
+  },
+  {
+    "id": "lpg",
+    "name": "GLP (LPG)",
+    "familyId": "hydrocarbon_fuel_gases",
+    "phase": "liquefied_gas",
+    "category": "fuel_gas",
+    "isOxidizer": false,
+    "isFlammable": true,
+    "isCryogenic": false,
+    "highPermeationConcern": true,
+    "requiresCleanService": false,
+    "tags": [
+      "liquefied_gas",
+      "flammable",
+      "hydrocarbon"
+    ],
+    "warnings": [
+      "Verificar compatibilidad tanto en fase líquida como gaseosa."
+    ],
+    "inheritFamilyCompatibility": true,
+    "engineeringStatus": "requires_validation"
+  },
+  {
+    "id": "lng",
+    "name": "GNL (LNG)",
+    "familyId": "cryogenic_hydrocarbons",
+    "phase": "cryogenic_liquid",
+    "category": "cryogenic_fuel",
+    "isOxidizer": false,
+    "isFlammable": true,
+    "isCryogenic": true,
+    "highPermeationConcern": true,
+    "requiresCleanService": false,
+    "tags": [
+      "cryogenic",
+      "flammable",
+      "hydrocarbon"
+    ],
+    "warnings": [
+      "La selección debe estar aprobada para temperatura criogénica y ciclos térmicos."
+    ],
+    "inheritFamilyCompatibility": false,
+    "engineeringStatus": "requires_validation"
+  },
+  {
+    "id": "co2",
+    "name": "Dióxido de carbono",
+    "familyId": "acid_gases",
+    "phase": "gas",
+    "category": "acid_gas",
+    "isOxidizer": false,
+    "isFlammable": false,
+    "isCryogenic": false,
+    "highPermeationConcern": true,
+    "requiresCleanService": false,
+    "tags": [
+      "gas",
+      "acid_gas"
+    ],
+    "warnings": [
+      "Con humedad puede formar un medio más corrosivo; definir fase y contenido de agua."
+    ],
+    "inheritFamilyCompatibility": true,
+    "engineeringStatus": "requires_validation"
+  },
+  {
+    "id": "chlorine_dry",
+    "name": "Cloro seco",
+    "familyId": "halogen_oxidizers",
+    "phase": "gas",
+    "category": "dry_halogen",
+    "isOxidizer": true,
+    "isFlammable": false,
+    "isCryogenic": false,
+    "highPermeationConcern": true,
+    "requiresCleanService": true,
+    "tags": [
+      "gas",
+      "oxidizer",
+      "toxic",
+      "dry_service"
+    ],
+    "warnings": [
+      "La condición seca debe confirmarse; trazas de humedad pueden cambiar radicalmente la compatibilidad."
+    ],
+    "inheritFamilyCompatibility": false,
+    "engineeringStatus": "requires_validation"
+  },
+  {
+    "id": "chlorine_wet",
+    "name": "Cloro húmedo",
+    "familyId": "halogen_oxidizers",
+    "phase": "gas",
+    "category": "wet_halogen",
+    "isOxidizer": true,
+    "isFlammable": false,
+    "isCryogenic": false,
+    "highPermeationConcern": true,
+    "requiresCleanService": true,
+    "tags": [
+      "gas",
+      "oxidizer",
+      "toxic",
+      "wet_service"
+    ],
+    "warnings": [
+      "No heredar automáticamente datos de cloro seco; requiere registros específicos."
+    ],
+    "inheritFamilyCompatibility": false,
+    "engineeringStatus": "requires_validation"
+  },
+  {
+    "id": "hydrochloric_acid",
+    "name": "Ácido clorhídrico",
+    "familyId": "mineral_acids",
+    "phase": "liquid",
+    "category": "strong_acid",
+    "isOxidizer": false,
+    "isFlammable": false,
+    "isCryogenic": false,
+    "highPermeationConcern": false,
+    "requiresCleanService": false,
+    "tags": [
+      "acid",
+      "corrosive"
+    ],
+    "warnings": [
+      "La concentración y la temperatura deben ser obligatorias para una recomendación final."
+    ],
+    "inheritFamilyCompatibility": true,
+    "engineeringStatus": "requires_validation"
+  },
+  {
+    "id": "sulfuric_acid",
+    "name": "Ácido sulfúrico",
+    "familyId": "mineral_acids",
+    "phase": "liquid",
+    "category": "strong_acid",
+    "isOxidizer": null,
+    "isFlammable": false,
+    "isCryogenic": false,
+    "highPermeationConcern": false,
+    "requiresCleanService": false,
+    "tags": [
+      "acid",
+      "corrosive",
+      "concentration_sensitive"
+    ],
+    "warnings": [
+      "El comportamiento cambia significativamente con concentración y temperatura."
+    ],
+    "inheritFamilyCompatibility": true,
+    "engineeringStatus": "requires_validation"
+  },
+  {
+    "id": "sodium_hydroxide",
+    "name": "Hidróxido de sodio",
+    "familyId": "strong_bases",
+    "phase": "liquid",
+    "category": "strong_base",
+    "isOxidizer": false,
+    "isFlammable": false,
+    "isCryogenic": false,
+    "highPermeationConcern": false,
+    "requiresCleanService": false,
+    "tags": [
+      "base",
+      "corrosive"
+    ],
+    "warnings": [
+      "La concentración y la temperatura deben definirse antes de aprobar el servicio."
+    ],
+    "inheritFamilyCompatibility": true,
+    "engineeringStatus": "requires_validation"
+  },
+  {
+    "id": "ammonia",
+    "name": "Amoniaco",
+    "familyId": "alkaline_gases_and_solutions",
+    "phase": "variable",
+    "category": "alkaline_fluid",
+    "isOxidizer": false,
+    "isFlammable": null,
+    "isCryogenic": false,
+    "highPermeationConcern": true,
+    "requiresCleanService": false,
+    "tags": [
+      "alkaline",
+      "toxic",
+      "phase_sensitive"
+    ],
+    "warnings": [
+      "Distinguir amoniaco anhidro, vapor y solución acuosa."
+    ],
+    "inheritFamilyCompatibility": false,
+    "engineeringStatus": "requires_validation"
+  },
+  {
+    "id": "h2s",
+    "name": "Sulfuro de hidrógeno",
+    "familyId": "acid_gases",
+    "phase": "gas",
+    "category": "toxic_acid_gas",
+    "isOxidizer": false,
+    "isFlammable": true,
+    "isCryogenic": false,
+    "highPermeationConcern": true,
+    "requiresCleanService": false,
+    "tags": [
+      "gas",
+      "toxic",
+      "flammable",
+      "sour_service"
+    ],
+    "warnings": [
+      "El servicio ácido puede requerir evaluación metalúrgica y normativa adicional."
+    ],
+    "inheritFamilyCompatibility": true,
+    "engineeringStatus": "requires_validation"
+  },
+  {
+    "id": "methanol",
+    "name": "Metanol",
+    "familyId": "alcohols",
+    "phase": "liquid",
+    "category": "polar_solvent",
+    "isOxidizer": false,
+    "isFlammable": true,
+    "isCryogenic": false,
+    "highPermeationConcern": true,
+    "requiresCleanService": false,
+    "tags": [
+      "alcohol",
+      "flammable",
+      "solvent"
+    ],
+    "warnings": [
+      "Verificar permeación y compatibilidad de sellos y conexiones."
+    ],
+    "inheritFamilyCompatibility": true,
+    "engineeringStatus": "requires_validation"
+  },
+  {
+    "id": "ethanol",
+    "name": "Etanol",
+    "familyId": "alcohols",
+    "phase": "liquid",
+    "category": "polar_solvent",
+    "isOxidizer": false,
+    "isFlammable": true,
+    "isCryogenic": false,
+    "highPermeationConcern": true,
+    "requiresCleanService": false,
+    "tags": [
+      "alcohol",
+      "flammable",
+      "solvent"
+    ],
+    "warnings": [
+      "La presencia de agua y desnaturalizantes puede modificar la compatibilidad."
+    ],
+    "inheritFamilyCompatibility": true,
+    "engineeringStatus": "requires_validation"
+  },
+  {
+    "id": "hydraulic_oil",
+    "name": "Aceite hidráulico",
+    "familyId": "petroleum_oils",
+    "phase": "liquid",
+    "category": "lubricating_oil",
+    "isOxidizer": false,
+    "isFlammable": true,
+    "isCryogenic": false,
+    "highPermeationConcern": false,
+    "requiresCleanService": false,
+    "tags": [
+      "oil",
+      "hydrocarbon",
+      "viscous"
+    ],
+    "warnings": [
+      "La formulación y los aditivos del aceite deben identificarse."
+    ],
+    "inheritFamilyCompatibility": true,
+    "engineeringStatus": "requires_validation"
+  }
+]

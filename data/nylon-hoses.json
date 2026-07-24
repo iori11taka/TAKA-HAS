@@ -1,0 +1,296 @@
+[
+  {
+    "series": "NG",
+    "name": "Manguera de nilón serie NG",
+    "family": "Manguera de nilón",
+    "constructionType": "nylon",
+    "constructionGroup": "thermoplastic",
+    "description": "Manguera de nilón diseñada para conducción de gas natural y aplicaciones en las que se requiere disipación de carga estática.",
+    "coreMaterial": "Ánima lisa de nilón disipadora de carga estática",
+    "reinforcement": "Refuerzo interno de fibra",
+    "coverMaterial": "Poliuretano perforado resistente a la abrasión",
+    "electricalProperty": "Disipadora de carga estática; cada ensamblaje se somete a prueba de conductividad eléctrica en fábrica",
+    "temperatureMinC": -40,
+    "temperatureMaxC": 65,
+    "basePressureTemperatureMaxC": 20,
+    "pressureReference": "Presión de servicio publicada a 20 °C",
+    "dynamicPerformance": "alto",
+    "vibrationSuitability": "high",
+    "bendRadiusMeasurement": "inside",
+    "recommendedForHighVibration": true,
+    "lowPermeationSuitable": null,
+    "chemicalCompatibilityLevel": "medium",
+    "vacuumSuitable": null,
+    "naturalGasSuitable": true,
+    "staticDissipative": true,
+    "maximumElectricalResistanceOhmPerM": 1000000,
+    "electricalTestVoltageVDC": 500,
+    "standardEndSpringGuards": true,
+    "approvals": [
+      "Configuraciones habituales disponibles con certificación NGV3.1-2014 Clase B",
+      "Configuraciones habituales disponibles con certificación NGV4.2-2014 Clase A"
+    ],
+    "configurations": [
+      {
+        "code": "NGS",
+        "name": "Manguera sencilla",
+        "description": "Una línea de llenado con ánima disipadora de carga estática.",
+        "availableNominalSizes": [
+          "1/4",
+          "3/8",
+          "1/2"
+        ]
+      },
+      {
+        "code": "NGT",
+        "name": "Manguera doble",
+        "description": "Dos líneas de alta presión para llenado y venteo.",
+        "availableNominalSizes": [
+          "1/4",
+          "3/8"
+        ]
+      },
+      {
+        "code": "NGV",
+        "name": "Manguera doble con venteo de baja presión",
+        "description": "Línea de llenado de alta presión y línea de venteo de baja presión.",
+        "availableNominalSizes": [
+          "1/4",
+          "3/8"
+        ],
+        "ventLineStaticDissipative": false,
+        "ventWorkingPressureBar": 103,
+        "ventBurstPressureBar": 413
+      }
+    ],
+    "sizes": [
+      {
+        "nominalSize": "1/4",
+        "insideDiameterMm": 6.6,
+        "outsideDiameterMm": 16.0,
+        "minimumBendRadiusMm": 50.8,
+        "workingPressureBar": 344,
+        "burstPressureBar": 1378,
+        "weightKgPerM": 0.17
+      },
+      {
+        "nominalSize": "3/8",
+        "insideDiameterMm": 9.6,
+        "outsideDiameterMm": 19.6,
+        "minimumBendRadiusMm": 102,
+        "workingPressureBar": 344,
+        "burstPressureBar": 1378,
+        "weightKgPerM": 0.22
+      },
+      {
+        "nominalSize": "1/2",
+        "insideDiameterMm": 13.2,
+        "outsideDiameterMm": 22.6,
+        "minimumBendRadiusMm": 140,
+        "workingPressureBar": 344,
+        "burstPressureBar": 1378,
+        "weightKgPerM": 0.32
+      }
+    ],
+    "warnings": [
+      "Todo el equipo debe estar correctamente conectado a masa para permitir la disipación estática y ayudar a evitar la generación de chispas.",
+      "La resistencia eléctrica entre extremos del ensamblaje no debe superar 1 MΩ por metro al probarse a 500 VDC.",
+      "La línea de venteo de baja presión de la configuración NGV no tiene ánima disipadora de carga estática.",
+      "Los muelles protectores de 5 pulg. en cada extremo son estándar; retirarlos solo es aconsejable en aplicaciones con curvas estáticas.",
+      "La compatibilidad química del nilón debe verificarse con el fluido.",
+      "Los rangos finales pueden quedar limitados por las conexiones."
+    ]
+  },
+  {
+    "series": "7R",
+    "name": "Manguera de nilón serie 7R",
+    "family": "Manguera de nilón",
+    "constructionType": "nylon",
+    "constructionGroup": "thermoplastic",
+    "description": "Manguera hidráulica SAE J517 100R7 de nilón para servicio general, con refuerzo interno de fibra y cubierta de poliuretano resistente a la abrasión.",
+    "coreMaterial": "Ánima lisa de nilón",
+    "reinforcement": "Refuerzo interno de fibra",
+    "coverMaterial": "Poliuretano negro perforado",
+    "electricalProperty": "Consultar las propiedades eléctricas de la configuración",
+    "temperatureMinC": -40,
+    "temperatureMaxC": 93,
+    "basePressureTemperatureMaxC": 20,
+    "pressureReference": "Presión de servicio publicada a 20 °C",
+    "dynamicPerformance": "alto",
+    "vibrationSuitability": "high",
+    "bendRadiusMeasurement": "inside",
+    "recommendedForHighVibration": true,
+    "lowPermeationSuitable": null,
+    "chemicalCompatibilityLevel": "medium",
+    "vacuumSuitable": null,
+    "hydraulicStandard": "SAE J517 100R7",
+    "abrasionResistantCover": true,
+    "perforatedCover": true,
+    "sizes": [
+      {
+        "nominalSize": "1/4",
+        "insideDiameterMm": 7.1,
+        "outsideDiameterMm": 12.2,
+        "minimumBendRadiusMm": 31.8,
+        "workingPressureBar": 189,
+        "burstPressureBar": 757,
+        "weightKgPerM": 0.1
+      },
+      {
+        "nominalSize": "3/8",
+        "insideDiameterMm": 9.9,
+        "outsideDiameterMm": 16.3,
+        "minimumBendRadiusMm": 50.8,
+        "workingPressureBar": 155,
+        "burstPressureBar": 620,
+        "weightKgPerM": 0.15
+      },
+      {
+        "nominalSize": "1/2",
+        "insideDiameterMm": 13.5,
+        "outsideDiameterMm": 20.6,
+        "minimumBendRadiusMm": 76.2,
+        "workingPressureBar": 137,
+        "burstPressureBar": 551,
+        "weightKgPerM": 0.21
+      }
+    ],
+    "warnings": [
+      "La compatibilidad química del nilón debe verificarse con el fluido.",
+      "La presión de servicio publicada corresponde a 20 °C.",
+      "Los rangos finales pueden quedar limitados por las conexiones."
+    ]
+  },
+  {
+    "series": "8R",
+    "name": "Manguera de nilón serie 8R",
+    "family": "Manguera de nilón",
+    "constructionType": "nylon",
+    "constructionGroup": "thermoplastic",
+    "description": "Manguera hidráulica SAE J517 100R8 de nilón para servicio general y alta presión, con refuerzo interno de fibra y cubierta de poliuretano resistente a la abrasión.",
+    "coreMaterial": "Ánima lisa de nilón",
+    "reinforcement": "Refuerzo interno de fibra",
+    "coverMaterial": "Poliuretano negro perforado",
+    "electricalProperty": "Consultar las propiedades eléctricas de la configuración",
+    "temperatureMinC": -40,
+    "temperatureMaxC": 93,
+    "basePressureTemperatureMaxC": 20,
+    "pressureReference": "Presión de servicio publicada a 20 °C",
+    "dynamicPerformance": "alto",
+    "vibrationSuitability": "high",
+    "bendRadiusMeasurement": "inside",
+    "recommendedForHighVibration": true,
+    "lowPermeationSuitable": null,
+    "chemicalCompatibilityLevel": "medium",
+    "vacuumSuitable": null,
+    "hydraulicStandard": "SAE J517 100R8",
+    "abrasionResistantCover": true,
+    "perforatedCover": true,
+    "eceR110Available": true,
+    "sizes": [
+      {
+        "nominalSize": "1/4",
+        "insideDiameterMm": 6.4,
+        "outsideDiameterMm": 13.5,
+        "minimumBendRadiusMm": 50.8,
+        "workingPressureBar": 344,
+        "burstPressureBar": 1378,
+        "weightKgPerM": 0.12,
+        "saeImpulseRequirementAtMaximumTemperatureAndMinimumBendRadius": false
+      },
+      {
+        "nominalSize": "3/8",
+        "insideDiameterMm": 9.8,
+        "outsideDiameterMm": 17.0,
+        "minimumBendRadiusMm": 63.5,
+        "workingPressureBar": 275,
+        "burstPressureBar": 1102,
+        "weightKgPerM": 0.16
+      },
+      {
+        "nominalSize": "1/2",
+        "insideDiameterMm": 12.7,
+        "outsideDiameterMm": 21.3,
+        "minimumBendRadiusMm": 102,
+        "workingPressureBar": 241,
+        "burstPressureBar": 964,
+        "weightKgPerM": 0.22
+      }
+    ],
+    "warnings": [
+      "El tamaño de 1/4 pulg. no cumple los requisitos SAE J517 de ciclos de impulso a la temperatura máxima y con el radio mínimo de curva.",
+      "La compatibilidad química del nilón debe verificarse con el fluido.",
+      "La presión de servicio publicada corresponde a 20 °C.",
+      "La aprobación ECE R110 solo está disponible en determinadas configuraciones.",
+      "Los rangos finales pueden quedar limitados por las conexiones."
+    ]
+  },
+  {
+    "series": "7N",
+    "name": "Manguera de nilón no conductiva serie 7N",
+    "family": "Manguera de nilón",
+    "constructionType": "nylon",
+    "constructionGroup": "thermoplastic",
+    "description": "Manguera de nilón SAE J517 100R7 no conductiva para fluidos hidráulicos con base de petróleo y sintéticos cuando se requieren propiedades no conductivas SAE.",
+    "coreMaterial": "Ánima lisa de nilón",
+    "reinforcement": "Refuerzo interno de fibra",
+    "coverMaterial": "Poliuretano naranja no perforado",
+    "electricalProperty": "No conductiva según SAE J343 y SAE J517",
+    "temperatureMinC": -40,
+    "temperatureMaxC": 93,
+    "basePressureTemperatureMaxC": 20,
+    "pressureReference": "Presión de servicio publicada a 20 °C",
+    "dynamicPerformance": "alto",
+    "vibrationSuitability": "high",
+    "bendRadiusMeasurement": "inside",
+    "recommendedForHighVibration": true,
+    "lowPermeationSuitable": null,
+    "chemicalCompatibilityLevel": "medium",
+    "vacuumSuitable": null,
+    "hydraulicStandard": "SAE J517 100R7",
+    "electricalStandards": [
+      "SAE J343",
+      "SAE J517"
+    ],
+    "nonConductive": true,
+    "abrasionResistantCover": true,
+    "perforatedCover": false,
+    "sizes": [
+      {
+        "nominalSize": "1/4",
+        "insideDiameterMm": 7.1,
+        "outsideDiameterMm": 12.2,
+        "minimumBendRadiusMm": 31.8,
+        "workingPressureBar": 189,
+        "burstPressureBar": 757,
+        "weightKgPerM": 0.1
+      },
+      {
+        "nominalSize": "3/8",
+        "insideDiameterMm": 9.9,
+        "outsideDiameterMm": 16.3,
+        "minimumBendRadiusMm": 50.8,
+        "workingPressureBar": 155,
+        "burstPressureBar": 620,
+        "weightKgPerM": 0.15
+      },
+      {
+        "nominalSize": "1/2",
+        "insideDiameterMm": 13.5,
+        "outsideDiameterMm": 20.6,
+        "minimumBendRadiusMm": 76.2,
+        "workingPressureBar": 137,
+        "burstPressureBar": 551,
+        "weightKgPerM": 0.21
+      }
+    ],
+    "warnings": [
+      "El fluido del sistema puede conducir electricidad aunque la manguera cumpla requisitos no conductivos.",
+      "No es aconsejable exponer continuamente la manguera a corriente eléctrica.",
+      "La cubierta no perforada puede formar burbujas durante el servicio con gases.",
+      "La compatibilidad química del nilón debe verificarse con el fluido.",
+      "La presión de servicio publicada corresponde a 20 °C.",
+      "Los rangos finales pueden quedar limitados por las conexiones."
+    ]
+  }
+]
