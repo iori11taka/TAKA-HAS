@@ -1,0 +1,639 @@
+<!DOCTYPE html>
+<html lang="es" data-theme="light">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="TAKA-HAS, sistema profesional para selección y diseño de ensambles de mangueras industriales Swagelok." />
+  <title>TAKA-HAS | Hose Assembly Selection System</title>
+  <meta name="theme-color" content="#0a1d2f" />
+  <meta name="application-name" content="TAKA-HAS" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+  <meta name="apple-mobile-web-app-title" content="TAKA-HAS" />
+  <link rel="manifest" href="manifest.webmanifest" />
+  <link rel="icon" href="assets/icons/icon-192.png" sizes="192x192" />
+  <link rel="apple-touch-icon" href="assets/icons/icon-192.png" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="software-shell">
+    <aside class="sidebar" aria-label="Navegación principal">
+      <div class="sidebar-brand">
+        <div class="brand-mark">TH</div>
+        <div><strong>TAKA-HAS</strong><span>Engineering Suite</span></div>
+      </div>
+      <nav class="sidebar-nav">
+        <button class="nav-item active" type="button" data-target="dashboard"><span class="nav-icon">⌂</span><span>Inicio</span></button>
+        <button class="nav-item" type="button" data-target="hoseForm"><span class="nav-icon">◫</span><span>Evaluación</span></button>
+        <button class="nav-item" type="button" data-target="geometryDesigner"><span class="nav-icon">⌁</span><span>Diseño del ensamble</span></button>
+        <button class="nav-item" type="button" data-target="summaryCard"><span class="nav-icon">▤</span><span>Resultados</span></button>
+        <button class="nav-item nav-item-disabled" type="button" aria-disabled="true"><span class="nav-icon">▦</span><span>Catálogo</span><small>Próximamente</small></button>
+        <button class="nav-item nav-item-disabled" type="button" aria-disabled="true"><span class="nav-icon">▧</span><span>Reportes</span><small>Próximamente</small></button>
+      </nav>
+
+      <section class="sidebar-assistant" aria-label="TAKA, asistente técnico">
+        <div class="sidebar-mascot-wrap">
+          <span class="sidebar-mascot-glow" aria-hidden="true"></span>
+          <img class="sidebar-mascot" src="assets/taka-thinking.png" alt="TAKA pensando y listo para ayudar" />
+        </div>
+        <div class="sidebar-assistant-card">
+          <div class="sidebar-assistant-title">
+            <div><strong>TAKA</strong><span>Asistente técnico</span></div>
+            <span class="sidebar-assistant-dot" title="Asistente disponible"></span>
+          </div>
+          <p><strong>Análisis disponible</strong><span>Estoy listo para ayudarte.</span></p>
+        </div>
+      </section>
+
+      <div class="sidebar-footer"><span id="sidebarConnectionDot" class="system-dot"></span><div><strong>Base técnica local</strong><span id="sidebarConnectionText">Motor técnico disponible</span></div></div>
+    </aside>
+
+    <div class="software-main">
+      <header class="topbar">
+        <div class="topbar-title">
+          <button id="sidebarToggle" class="icon-button mobile-only" type="button" aria-label="Abrir navegación">☰</button>
+          <div><p>SWAGELOK PERÚ · ENGINEERING SOFTWARE</p><h1>TAKA-HAS</h1><span>Hose Assembly Selection System</span></div>
+        </div>
+        <div class="topbar-actions">
+          <span class="version-chip">v1.1 · MS-01-180</span>
+          <button id="installAppButton" class="install-app-button hidden" type="button" title="Instalar TAKA-HAS">Instalar app</button>
+          <button id="themeToggle" class="icon-button" type="button" aria-label="Cambiar tema" title="Cambiar tema">◐</button>
+          <div class="user-menu-wrap">
+            <button id="userMenuButton" class="user-chip" type="button" aria-haspopup="menu" aria-expanded="false">
+              <span class="user-avatar"><img src="assets/taka-assistant.png" alt="Avatar de TAKA" /></span>
+              <span class="user-identity"><strong id="userDisplayName">Usuario técnico</strong><span id="userDisplayRole">Ingeniería</span></span>
+              <span class="user-chevron" aria-hidden="true">⌄</span>
+            </button>
+            <div id="userMenu" class="user-menu hidden" role="menu" aria-label="Menú de usuario">
+              <div class="user-menu-profile">
+                <span class="user-menu-avatar"><img src="assets/taka-assistant.png" alt="" /></span>
+                <div><strong id="userMenuName">Usuario técnico</strong><span id="userMenuRole">Ingeniería</span><small>Perfil local de TAKA-HAS</small></div>
+              </div>
+              <div class="user-menu-separator"></div>
+              <button id="editProfileButton" class="user-menu-item" type="button" role="menuitem"><span>◉</span><div><strong>Editar perfil</strong><small>Nombre y área de trabajo</small></div></button>
+              <button id="userThemeButton" class="user-menu-item" type="button" role="menuitem"><span>◐</span><div><strong>Tema de interfaz</strong><small id="userThemeLabel">Cambiar a modo oscuro</small></div></button>
+              <button id="aboutButton" class="user-menu-item" type="button" role="menuitem"><span>ⓘ</span><div><strong>Acerca de TAKA-HAS</strong><small>Versión y alcance técnico</small></div></button>
+            </div>
+          </div>
+        </div>
+      </header>
+
+      <div class="workspace">
+        <div class="breadcrumb-bar">
+          <div><span>TAKA-HAS</span><b>/</b><strong id="currentModuleLabel">Inicio</strong></div>
+          <span id="connectionStatus" class="workspace-status" role="status" aria-live="polite"><i></i><span id="connectionStatusText">Sistema operativo</span></span>
+        </div>
+        <main class="app-container">
+    <section id="dashboard" class="card intro-card workspace-hero">
+      <h2>Centro de evaluación técnica</h2>
+
+      <p>
+        Define las condiciones de servicio y TAKA-HAS comparará las series disponibles mediante los motores técnicos locales.
+      </p>
+
+      <div class="notice">
+        Motor técnico activo · Series metálicas, fluoropolímeras, termoplásticas, híbridas y de caucho.
+      </div>
+    </section>
+
+    <form id="hoseForm" class="card workspace-panel">
+      <!-- PASO 1 -->
+      <section class="form-section">
+        <div class="section-heading">
+          <span class="step">1</span>
+
+          <div>
+            <h2>Condiciones de servicio</h2>
+
+            <p>
+              Define el tamaño, la presión y el rango de temperatura
+              de la aplicación.
+            </p>
+          </div>
+        </div>
+
+        <div class="form-grid">
+          <div class="field">
+            <label for="nominalSize">
+              Tamaño nominal
+            </label>
+
+            <select
+              id="nominalSize"
+              name="nominalSize"
+              required
+            >
+              <option value="">
+                Seleccionar tamaño
+              </option>
+
+              <option value="1/8">
+                1/8 pulg.
+              </option>
+
+              <option value="1/4">
+                1/4 pulg.
+              </option>
+
+              <option value="3/8">
+                3/8 pulg.
+              </option>
+
+              <option value="1/2">
+                1/2 pulg.
+              </option>
+
+              <option value="3/4">
+                3/4 pulg.
+              </option>
+
+              <option value="1">
+                1 pulg.
+              </option>
+
+              <option value="1 1/4">
+                1 1/4 pulg.
+              </option>
+
+              <option value="1 1/2">
+                1 1/2 pulg.
+              </option>
+
+              <option value="2">
+                2 pulg.
+              </option>
+            </select>
+          </div>
+
+          <div class="field">
+            <label for="pressure">
+              Presión máxima
+            </label>
+
+            <div class="input-unit">
+              <input
+                id="pressure"
+                name="pressure"
+                type="number"
+                min="0"
+                step="0.1"
+                placeholder="Ej. 100"
+                required
+              />
+
+              <span>bar</span>
+            </div>
+          </div>
+
+          <div class="field">
+            <label for="minimumTemperature">
+              Temperatura mínima
+            </label>
+
+            <div class="input-unit">
+              <input
+                id="minimumTemperature"
+                name="minimumTemperature"
+                type="number"
+                step="0.1"
+                placeholder="Ej. 20"
+                required
+              />
+
+              <span>°C</span>
+            </div>
+          </div>
+
+          <div class="field">
+            <label for="maximumTemperature">
+              Temperatura máxima
+            </label>
+
+            <div class="input-unit">
+              <input
+                id="maximumTemperature"
+                name="maximumTemperature"
+                type="number"
+                step="0.1"
+                placeholder="Ej. 100"
+                required
+              />
+
+              <span>°C</span>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- PASO 2 -->
+      <section class="form-section">
+        <div class="section-heading">
+          <span class="step">2</span>
+
+          <div>
+            <h2>Fluido y compatibilidad química</h2>
+
+            <p>
+              Selecciona el fluido que circulará por la manguera.
+            </p>
+          </div>
+        </div>
+
+        <div class="form-grid">
+          <div class="field">
+            <label for="fluid">
+              Fluido de proceso
+            </label>
+
+            <select
+              id="fluid"
+              name="fluid"
+            >
+              <option value="">
+                Sin evaluación química
+              </option>
+            </select>
+
+            <p class="field-help">
+              La lista de fluidos se cargará automáticamente desde
+              la base de compatibilidad química.
+            </p>
+          </div>
+
+          <div class="field">
+            <label for="concentration">
+              Concentración del fluido (opcional)
+            </label>
+
+            <div class="input-unit">
+              <input
+                id="concentration"
+                name="concentration"
+                type="number"
+                min="0"
+                max="100"
+                step="0.1"
+                placeholder="Ej. 37"
+              />
+
+              <span>%</span>
+            </div>
+
+            <p class="field-help">
+              Obligatoria para aprobar ácidos, bases y soluciones
+              cuya compatibilidad depende de la concentración.
+            </p>
+          </div>
+        </div>
+
+        <div class="notice">
+          La compatibilidad puede variar según la concentración,
+          temperatura, presión, fase del fluido, contaminación,
+          humedad y materiales de las conexiones finales.
+        </div>
+      </section>
+
+      <!-- PASO 3 -->
+      <section class="form-section">
+        <div class="section-heading">
+          <span class="step">3</span>
+
+          <div>
+            <h2>Movimiento y curvatura</h2>
+
+            <p>
+              Define cómo trabajará la manguera durante la operación.
+            </p>
+          </div>
+        </div>
+
+        <div class="field">
+          <label>
+            Tipo de aplicación
+          </label>
+
+          <div class="radio-grid">
+            <label class="selection-option">
+              <input
+                type="radio"
+                name="applicationType"
+                value="static"
+                checked
+              />
+
+              <span>
+                <strong>Estática</strong>
+
+                <small>
+                  La manguera permanece en una posición fija.
+                </small>
+              </span>
+            </label>
+
+            <label class="selection-option">
+              <input
+                type="radio"
+                name="applicationType"
+                value="dynamic"
+              />
+
+              <span>
+                <strong>Dinámica</strong>
+
+                <small>
+                  La manguera se flexiona o cambia de posición
+                  durante la operación.
+                </small>
+              </span>
+            </label>
+          </div>
+        </div>
+
+        <div class="field">
+          <label for="availableRadius">
+            Radio de curvatura disponible
+          </label>
+
+          <div class="input-unit">
+            <input
+              id="availableRadius"
+              name="availableRadius"
+              type="number"
+              min="0.1"
+              step="0.1"
+              placeholder="Ej. 150"
+              required
+            />
+
+            <span>mm</span>
+          </div>
+
+          <p class="field-help">
+            Ingresa el radio medido desde la línea central de la
+            manguera.
+          </p>
+        </div>
+
+        <div class="field">
+          <label for="vibrationLevel">
+            Nivel de vibración
+          </label>
+
+          <select
+            id="vibrationLevel"
+            name="vibrationLevel"
+          >
+            <option value="none">
+              Sin vibración apreciable
+            </option>
+
+            <option value="low" selected>
+              Vibración baja
+            </option>
+
+            <option value="moderate">
+              Vibración moderada
+            </option>
+
+            <option value="high">
+              Vibración alta
+            </option>
+
+            <option value="unknown">
+              Nivel desconocido
+            </option>
+          </select>
+        </div>
+
+        <div class="checkbox-grid">
+          <label class="checkbox-option">
+            <input
+              id="hasPulsation"
+              name="hasPulsation"
+              type="checkbox"
+            />
+
+            <span>
+              Existen pulsaciones, golpes de ariete o subidas
+              bruscas de presión.
+            </span>
+          </label>
+
+          <label class="checkbox-option">
+            <input
+              id="continuousVibration"
+              name="continuousVibration"
+              type="checkbox"
+            />
+
+            <span>
+              La vibración es constante o continua.
+            </span>
+          </label>
+        </div>
+      </section>
+
+      <!-- PASO 4 -->
+      <section class="form-section">
+        <div class="section-heading">
+          <span class="step">4</span>
+
+          <div>
+            <h2>Requisitos especiales</h2>
+
+            <p>
+              Indica las condiciones adicionales que deben cumplirse.
+            </p>
+          </div>
+        </div>
+
+        <div class="checkbox-grid">
+          <label class="checkbox-option">
+            <input
+              id="lowPermeation"
+              name="lowPermeation"
+              type="checkbox"
+            />
+
+            <span>
+              La permeación del fluido no es aceptable o debe
+              mantenerse al mínimo.
+            </span>
+          </label>
+
+          <label class="checkbox-option">
+            <input
+              id="requiresNonConductive"
+              name="requiresNonConductive"
+              type="checkbox"
+            />
+
+            <span>
+              La aplicación requiere una manguera no conductiva
+              eléctricamente.
+            </span>
+          </label>
+        </div>
+      </section>
+
+      <button
+        class="primary-button"
+        type="submit"
+      >
+        Evaluar mangueras
+      </button>
+    </form>
+
+    <section
+      id="summaryCard"
+      class="card hidden workspace-panel"
+    >
+      <div class="summary-header">
+        <div>
+          <p class="eyebrow">
+            Resultado de la evaluación
+          </p>
+
+          <h2 id="summaryTitle">
+            Resultados
+          </h2>
+        </div>
+
+        <span
+          id="candidateCount"
+          class="candidate-count"
+        ></span>
+      </div>
+
+      <div id="globalWarnings"></div>
+
+      <div
+        id="resultsContainer"
+        class="results-container"
+      ></div>
+    </section>
+
+
+    <section id="geometryDesigner" class="card hidden geometry-designer workspace-panel">
+      <div class="summary-header">
+        <div>
+          <p class="eyebrow">Diseño del ensamblaje</p>
+          <h2>Forma de instalación y longitud</h2>
+          <p id="geometrySelectedHose" class="result-description"></p>
+        </div>
+        <button id="closeGeometryDesigner" class="secondary-button" type="button">Cerrar</button>
+      </div>
+
+      <div class="geometry-layout">
+        <div class="geometry-controls">
+          <div class="field">
+            <label for="geometryRouteType">Tipo de recorrido</label>
+            <select id="geometryRouteType">
+              <option value="straight">Recta</option>
+              <option value="elbow90" selected>Curva de 90°</option>
+              <option value="u180">Curva en U de 180°</option>
+            </select>
+          </div>
+
+          <div class="form-grid">
+            <div class="field">
+              <label for="geometryEndA">Dimensión A del terminal 1</label>
+              <div class="input-unit"><input id="geometryEndA" type="number" min="0" step="0.1" value="0"><span>mm</span></div>
+              <p class="field-help">Longitud rígida desde la cara de conexión 1 hasta el inicio de la parte flexible.</p>
+            </div>
+            <div class="field">
+              <label for="geometryEndB">Dimensión A del terminal 2</label>
+              <div class="input-unit"><input id="geometryEndB" type="number" min="0" step="0.1" value="0"><span>mm</span></div>
+              <p class="field-help">Longitud rígida desde la cara de conexión 2 hasta el inicio de la parte flexible.</p>
+            </div>
+          </div>
+
+          <div id="geometryRouteFields"></div>
+
+          <div class="form-grid">
+            <div id="geometryRadiusField" class="field">
+              <label for="geometryRadius">Radio de instalación sobre la línea central</label>
+              <div class="input-unit"><input id="geometryRadius" type="number" min="0.1" step="0.1"><span>mm</span></div>
+              <p class="field-help">Para una curva de 90°, es el radio medido hasta la línea central de la manguera.</p>
+            </div>
+            <div class="field">
+              <label for="geometryIncrement">Incremento comercial</label>
+              <div class="input-unit"><input id="geometryIncrement" type="number" min="1" step="1" value="10"><span>mm</span></div>
+            </div>
+          </div>
+
+          <button id="calculateGeometry" class="primary-button geometry-calculate" type="button">Calcular longitud</button>
+        </div>
+
+        <div class="geometry-visual">
+          <svg id="geometrySvg" viewBox="0 0 620 360" role="img" aria-label="Esquema del recorrido de la manguera"></svg>
+          <div id="geometryResult" class="geometry-result" aria-live="polite"></div>
+        </div>
+      </div>
+    </section>
+
+
+    <footer>
+      <p>
+        Herramienta de orientación preliminar. La selección final debe
+        validar la compatibilidad química, concentración, temperatura,
+        estado del fluido, conexiones finales, reducción de presión por
+        temperatura y condiciones completas de la aplicación.
+      </p>
+    </footer>
+        </main>
+      </div>
+    </div>
+
+
+    <dialog id="profileDialog" class="software-dialog" aria-labelledby="profileDialogTitle">
+      <form id="profileForm" method="dialog">
+        <div class="dialog-header">
+          <div class="dialog-title-group">
+            <span class="dialog-avatar"><img src="assets/taka-assistant.png" alt="TAKA" /></span>
+            <div><p>PERFIL LOCAL</p><h2 id="profileDialogTitle">Usuario de TAKA-HAS</h2></div>
+          </div>
+          <button class="dialog-close" type="button" data-close-dialog="profileDialog" aria-label="Cerrar">×</button>
+        </div>
+        <div class="dialog-body">
+          <label class="dialog-field" for="profileName"><span>Nombre mostrado</span><input id="profileName" maxlength="40" autocomplete="name" required /></label>
+          <label class="dialog-field" for="profileRole"><span>Área o especialidad</span><input id="profileRole" maxlength="40" placeholder="Ej. Ingeniería de aplicaciones" required /></label>
+          <p class="dialog-help">Estos datos se guardan únicamente en este navegador y no requieren una cuenta.</p>
+        </div>
+        <div class="dialog-actions"><button class="secondary-button" type="button" data-close-dialog="profileDialog">Cancelar</button><button class="primary-button dialog-primary" type="submit">Guardar perfil</button></div>
+      </form>
+    </dialog>
+
+    <dialog id="aboutDialog" class="software-dialog" aria-labelledby="aboutDialogTitle">
+      <div class="dialog-header">
+        <div class="dialog-title-group"><span class="dialog-product-mark">TH</span><div><p>ENGINEERING SOFTWARE</p><h2 id="aboutDialogTitle">TAKA-HAS</h2></div></div>
+        <button class="dialog-close" type="button" data-close-dialog="aboutDialog" aria-label="Cerrar">×</button>
+      </div>
+      <div class="dialog-body about-content">
+        <strong>Hose Assembly Selection System</strong>
+        <p>Herramienta local para evaluación preliminar y diseño geométrico de ensambles de mangueras industriales Swagelok.</p>
+        <dl><div><dt>Versión</dt><dd>1.0</dd></div><div><dt>Base técnica</dt><dd>MS-01-180</dd></div><div><dt>Procesamiento</dt><dd>Local, sin conexión</dd></div></dl>
+        <p class="dialog-help">La selección final debe ser validada por personal competente considerando todas las condiciones reales de servicio.</p>
+      </div>
+      <div class="dialog-actions"><button class="primary-button dialog-primary" type="button" data-close-dialog="aboutDialog">Entendido</button></div>
+    </dialog>
+
+    <aside id="technicalAssistant" class="assistant-panel" aria-live="polite">
+      <button id="assistantToggle" class="assistant-handle" type="button" aria-label="Abrir asistente técnico"><img src="assets/taka-assistant.png" alt="" /></button>
+      <div class="assistant-card">
+        <div class="assistant-header">
+          <img src="assets/taka-assistant.png" alt="TAKA, asistente técnico" />
+          <div><strong>TAKA</strong><span>Asistente técnico</span></div>
+          <button id="assistantClose" type="button" aria-label="Cerrar asistente">×</button>
+        </div>
+        <div class="assistant-body">
+          <span class="assistant-status">ANÁLISIS DISPONIBLE</span>
+          <p id="assistantMessage">Selecciona las condiciones de servicio. Te ayudaré a interpretar los resultados y las validaciones geométricas.</p>
+        </div>
+      </div>
+    </aside>
+  </div>
+  <div id="updateToast" class="update-toast hidden" role="status"><span>Hay una nueva versión de TAKA-HAS disponible.</span><button id="reloadAppButton" type="button">Actualizar</button></div>
+  <script type="module" src="app.js"></script>
+</body>
+</html>
