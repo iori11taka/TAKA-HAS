@@ -619,3 +619,47 @@ html[data-theme="dark"] .portal-home-link:hover {
   }
 
 }
+
+/* =========================================================
+   BOTÓN VOLVER AL PORTAL
+   ========================================================= */
+
+.portal-home-link {
+  display: inline-flex !important;
+  align-items: center;
+  gap: 8px;
+
+  height: 38px;
+  padding: 0 14px;
+
+  border: 1px solid rgba(148, 163, 184, 0.28);
+  border-radius: 10px;
+
+  background: rgba(255, 255, 255, 0.04);
+  color: #dce8f5;
+
+  font-size: 12px;
+  font-weight: 700;
+  text-decoration: none;
+
+  cursor: pointer;
+  white-space: nowrap;
+}
+
+.portal-home-link svg {
+  display: block;
+  width: 16px;
+  height: 16px;
+
+  fill: none;
+  stroke: currentColor;
+  stroke-width: 1.8;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+
+.portal-home-link:hover {
+  background: rgba(255, 255, 255, 0.09);
+  border-color: rgba(148, 163, 184, 0.5);
+  transform: translateY(-1px);
+}
