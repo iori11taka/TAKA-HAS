@@ -505,3 +505,117 @@ html[data-theme="dark"] .about-content > strong { color:#edf4fa; }
   .geometry-visual svg { min-width:620px; }
 }
 .install-app-button.hidden { display:none !important; }
+/* =====================================================
+   VOLVER AL PORTAL DE HERRAMIENTAS
+===================================================== */
+
+.portal-home-link {
+  height: 38px;
+
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+
+  gap: 8px;
+
+  padding: 0 13px;
+
+  border: 1px solid var(--border-color, #d8e1e8);
+  border-radius: 9px;
+
+  background: var(--surface, #ffffff);
+
+  color: #0b67a3;
+
+  font-size: 12px;
+  font-weight: 600;
+
+  text-decoration: none;
+
+  white-space: nowrap;
+
+  transition:
+    background 0.2s ease,
+    border-color 0.2s ease,
+    color 0.2s ease,
+    transform 0.2s ease,
+    box-shadow 0.2s ease;
+}
+
+.portal-home-link svg {
+  width: 17px;
+  height: 17px;
+
+  fill: none;
+
+  stroke: currentColor;
+  stroke-width: 1.8;
+
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+
+.portal-home-link:hover {
+  background: #f2f8fc;
+
+  border-color: #9fc5dc;
+
+  color: #005b96;
+
+  transform: translateY(-1px);
+
+  box-shadow:
+    0 4px 12px
+    rgba(18, 55, 82, 0.08);
+}
+
+.portal-home-link:active {
+  transform: translateY(0);
+}
+
+
+/* MODO OSCURO */
+
+html[data-theme="dark"] .portal-home-link {
+  background: rgba(255,255,255,0.04);
+
+  border-color: rgba(255,255,255,0.12);
+
+  color: #7fc4ee;
+}
+
+html[data-theme="dark"] .portal-home-link:hover {
+  background: rgba(255,255,255,0.08);
+
+  border-color: rgba(127,196,238,0.35);
+
+  color: #a7d9f5;
+}
+
+
+/* TABLET */
+
+@media (max-width: 900px) {
+
+  .portal-home-link span {
+    display: none;
+  }
+
+  .portal-home-link {
+    width: 38px;
+
+    padding: 0;
+  }
+
+}
+
+
+/* MÓVIL */
+
+@media (max-width: 600px) {
+
+  .portal-home-link {
+    display: none;
+  }
+
+}
